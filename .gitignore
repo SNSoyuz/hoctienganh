@@ -1,0 +1,14 @@
+# Python bytecode (file rác khi chạy Python)
+__pycache__/
+*.pyc
+
+# Môi trường ảo (nếu bạn có dùng venv)
+venv/
+.venv/
+env/
+
+# Dữ liệu cá nhân/Lịch sử (để GitHub không lưu kết quả thi của bạn)
+results.txt
+
+# Cấu hình riêng của VS Code
+.vscode/
