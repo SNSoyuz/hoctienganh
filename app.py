@@ -48,4 +48,4 @@ def get_history():
 
 if __name__ == '__main__':
     print("Ứng dụng học tiếng Anh đang chạy tại http://127.0.0.1:5000")
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5000, debug=True)
