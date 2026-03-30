@@ -1,0 +1,3902 @@
+[
+    {
+        "id": 1,
+        "level": "A1",
+        "question": "What is your name?",
+        "options": [
+            "My name is John.",
+            "I am fine.",
+            "Nice to meet you.",
+            "Goodbye."
+        ],
+        "answer": 0,
+        "note": "Câu hỏi tên dùng cấu trúc 'My name is + tên' để trả lời."
+    },
+    {
+        "id": 2,
+        "level": "A1",
+        "question": "How old are you?",
+        "options": [
+            "I am 20 years old.",
+            "I am a student.",
+            "I live here.",
+            "I am tall."
+        ],
+        "answer": 0,
+        "note": "Hỏi tuổi dùng cấu trúc 'How old + to-be + S?' và trả lời bằng 'S + to-be + số tuổi'."
+    },
+    {
+        "id": 3,
+        "level": "A1",
+        "question": "Where are you from?",
+        "options": [
+            "I am from Vietnam.",
+            "I am fine.",
+            "I am happy.",
+            "I am a doctor."
+        ],
+        "answer": 0,
+        "note": "Cấu trúc 'be from + địa điểm' dùng để nói về quê quán, xuất xứ."
+    },
+    {
+        "id": 4,
+        "level": "A1",
+        "question": "What color is the sky?",
+        "options": [
+            "It is blue.",
+            "It is green.",
+            "It is red.",
+            "It is yellow."
+        ],
+        "answer": 0,
+        "note": "Tính từ chỉ màu sắc (blue - xanh da trời) đứng sau động từ to-be 'is'."
+    },
+    {
+        "id": 5,
+        "level": "A1",
+        "question": "How many days are in a week?",
+        "options": [
+            "Seven days.",
+            "Five days.",
+            "Six days.",
+            "Eight days."
+        ],
+        "answer": 0,
+        "note": "Kiến thức thực tế: Một tuần có 7 ngày (Seven days)."
+    },
+    {
+        "id": 6,
+        "level": "A1",
+        "question": "Do you like apples?",
+        "options": [
+            "Yes, I do.",
+            "Yes, I am.",
+            "No, I don't like.",
+            "Yes, I like."
+        ],
+        "answer": 0,
+        "note": "Câu hỏi Yes/No với trợ động từ 'Do', câu trả lời ngắn phải dùng lại 'do'."
+    },
+    {
+        "id": 7,
+        "level": "A1",
+        "question": "What time is it?",
+        "options": [
+            "It is ten o'clock.",
+            "It is Monday.",
+            "It is sunny.",
+            "It is red."
+        ],
+        "answer": 0,
+        "note": "Dùng 'It is + thời gian' để trả lời cho câu hỏi giờ giấc."
+    },
+    {
+        "id": 8,
+        "level": "A1",
+        "question": "Where is the book?",
+        "options": [
+            "It is on the table.",
+            "It is happy.",
+            "It is blue.",
+            "It is mine."
+        ],
+        "answer": 0,
+        "note": "Giới từ 'on' chỉ vị trí phía trên bề mặt của một vật (cái bàn)."
+    },
+    {
+        "id": 9,
+        "level": "A1",
+        "question": "Can you swim?",
+        "options": [
+            "Yes, I can.",
+            "Yes, I do.",
+            "No, I'm not.",
+            "I can to swim."
+        ],
+        "answer": 0,
+        "note": "Câu hỏi với động từ khuyết thiếu 'Can', trả lời dùng lại 'can'."
+    },
+    {
+        "id": 10,
+        "level": "A1",
+        "question": "I _____ a teacher.",
+        "options": [
+            "am",
+            "is",
+            "are",
+            "be"
+        ],
+        "answer": 0,
+        "note": "Chủ ngữ là ngôi thứ nhất số ít 'I' luôn đi với 'am' ở hiện tại đơn."
+    },
+    {
+        "id": 11,
+        "level": "A1",
+        "question": "She _____ to school every day.",
+        "options": [
+            "goes",
+            "go",
+            "going",
+            "gone"
+        ],
+        "answer": 0,
+        "note": "Thì hiện tại đơn, chủ ngữ 'She' (ngôi thứ 3 số ít) động từ phải thêm 'es'."
+    },
+    {
+        "id": 12,
+        "level": "A1",
+        "question": "They _____ football now.",
+        "options": [
+            "are playing",
+            "play",
+            "plays",
+            "is playing"
+        ],
+        "answer": 0,
+        "note": "Dấu hiệu 'now' dùng thì hiện tại tiếp diễn: S + be + V-ing."
+    },
+    {
+        "id": 13,
+        "level": "A1",
+        "question": "There _____ a cat on the sofa.",
+        "options": [
+            "is",
+            "are",
+            "am",
+            "be"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc 'There is' dùng cho danh từ số ít (a cat)."
+    },
+    {
+        "id": 14,
+        "level": "A1",
+        "question": "This is _____ apple.",
+        "options": [
+            "an",
+            "a",
+            "the",
+            "some"
+        ],
+        "answer": 0,
+        "note": "Dùng mạo từ 'an' trước danh từ bắt đầu bằng nguyên âm (u, e, o, a, i)."
+    },
+    {
+        "id": 15,
+        "level": "A1",
+        "question": "These _____ my friends.",
+        "options": [
+            "are",
+            "is",
+            "am",
+            "was"
+        ],
+        "answer": 0,
+        "note": "'These' là đại từ chỉ định số nhiều, đi với động từ to-be 'are'."
+    },
+    {
+        "id": 16,
+        "level": "A1",
+        "question": "I have _____ sister.",
+        "options": [
+            "a",
+            "an",
+            "the",
+            "any"
+        ],
+        "answer": 0,
+        "note": "Mạo từ 'a' dùng cho danh từ đếm được số ít bắt đầu bằng phụ âm."
+    },
+    {
+        "id": 17,
+        "level": "A1",
+        "question": "He _____ like coffee.",
+        "options": [
+            "doesn't",
+            "don't",
+            "isn't",
+            "hasn't"
+        ],
+        "answer": 0,
+        "note": "Phủ định thì hiện tại đơn, chủ ngữ 'He' dùng trợ động từ 'doesn't'."
+    },
+    {
+        "id": 18,
+        "level": "A1",
+        "question": "_____ you have a car?",
+        "options": [
+            "Do",
+            "Does",
+            "Are",
+            "Have"
+        ],
+        "answer": 0,
+        "note": "Câu hỏi thì hiện tại đơn, chủ ngữ 'you' dùng trợ động từ 'Do'."
+    },
+    {
+        "id": 19,
+        "level": "A1",
+        "question": "We _____ happy today.",
+        "options": [
+            "are",
+            "is",
+            "am",
+            "be"
+        ],
+        "answer": 0,
+        "note": "Chủ ngữ số nhiều 'We' đi với động từ to-be 'are'."
+    },
+    {
+        "id": 20,
+        "level": "A1",
+        "question": "My father _____ in a bank.",
+        "options": [
+            "works",
+            "work",
+            "working",
+            "is work"
+        ],
+        "answer": 0,
+        "note": "Thì hiện tại đơn diễn tả nghề nghiệp, 'My father' là ngôi thứ 3 số ít nên thêm 's'."
+    },
+    {
+        "id": 21,
+        "level": "A2",
+        "question": "What _____ you doing yesterday at 5 PM?",
+        "options": [
+            "were",
+            "was",
+            "are",
+            "did"
+        ],
+        "answer": 0,
+        "note": "Thì quá khứ tiếp diễn diễn tả hành động đang xảy ra tại thời điểm cụ thể trong quá khứ."
+    },
+    {
+        "id": 22,
+        "level": "A2",
+        "question": "I _____ to Paris last summer.",
+        "options": [
+            "went",
+            "go",
+            "have gone",
+            "was go"
+        ],
+        "answer": 0,
+        "note": "Dấu hiệu 'last summer' dùng thì quá khứ đơn (V2 của go là went)."
+    },
+    {
+        "id": 23,
+        "level": "A2",
+        "question": "Have you ever _____ sushi?",
+        "options": [
+            "eaten",
+            "eat",
+            "ate",
+            "eating"
+        ],
+        "answer": 0,
+        "note": "Thì hiện tại hoàn thành: Have + S + ever + V3/ed."
+    },
+    {
+        "id": 24,
+        "level": "A2",
+        "question": "This cake is _____ than the one I made.",
+        "options": [
+            "better",
+            "good",
+            "best",
+            "more good"
+        ],
+        "answer": 0,
+        "note": "So sánh hơn của tính từ đặc biệt 'good' là 'better'."
+    },
+    {
+        "id": 25,
+        "level": "A2",
+        "question": "He is the _____ student in the class.",
+        "options": [
+            "tallest",
+            "taller",
+            "tall",
+            "most tall"
+        ],
+        "answer": 0,
+        "note": "So sánh nhất với tính từ ngắn: the + adj-est."
+    },
+    {
+        "id": 26,
+        "level": "A2",
+        "question": "If it _____ tomorrow, I will stay at home.",
+        "options": [
+            "rains",
+            "rain",
+            "will rain",
+            "rained"
+        ],
+        "answer": 0,
+        "note": "Câu điều kiện loại 1: If + HTĐ, S + will + V."
+    },
+    {
+        "id": 27,
+        "level": "A2",
+        "question": "You _____ wear a uniform at school.",
+        "options": [
+            "must",
+            "can",
+            "might",
+            "may"
+        ],
+        "answer": 0,
+        "note": "Động từ khuyết thiếu 'must' diễn tả sự bắt buộc hoặc quy định."
+    },
+    {
+        "id": 28,
+        "level": "A2",
+        "question": "I _____ my keys. Have you seen them?",
+        "options": [
+            "have lost",
+            "lost",
+            "lose",
+            "am losing"
+        ],
+        "answer": 0,
+        "note": "Dùng hiện tại hoàn thành cho hành động vừa xảy ra và để lại kết quả (mất chìa khóa)."
+    },
+    {
+        "id": 29,
+        "level": "A2",
+        "question": "She _____ speak three languages fluently.",
+        "options": [
+            "can",
+            "must",
+            "should",
+            "ought to"
+        ],
+        "answer": 0,
+        "note": "'Can' diễn tả khả năng, năng lực của bản thân."
+    },
+    {
+        "id": 30,
+        "level": "A2",
+        "question": "There isn't _____ milk in the fridge.",
+        "options": [
+            "any",
+            "some",
+            "a",
+            "many"
+        ],
+        "answer": 0,
+        "note": "Dùng 'any' trong câu phủ định và câu nghi vấn với danh từ không đếm được."
+    },
+    {
+        "id": 31,
+        "level": "A2",
+        "question": "How _____ money do you need?",
+        "options": [
+            "much",
+            "many",
+            "few",
+            "little"
+        ],
+        "answer": 0,
+        "note": "'Money' là danh từ không đếm được nên dùng 'How much'."
+    },
+    {
+        "id": 32,
+        "level": "A2",
+        "question": "I'm going _____ a new laptop next week.",
+        "options": [
+            "to buy",
+            "buying",
+            "buy",
+            "bought"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc tương lai gần: be going to + V."
+    },
+    {
+        "id": 33,
+        "level": "A2",
+        "question": "The film was very _____.",
+        "options": [
+            "interesting",
+            "interested",
+            "interest",
+            "interests"
+        ],
+        "answer": 0,
+        "note": "Tính từ đuôi '-ing' dùng để mô tả tính chất của vật/sự việc (bộ phim)."
+    },
+    {
+        "id": 34,
+        "level": "A2",
+        "question": "He _____ dinner when the phone rang.",
+        "options": [
+            "was cooking",
+            "cooked",
+            "is cooking",
+            "cooks"
+        ],
+        "answer": 0,
+        "note": "Quá khứ tiếp diễn kết hợp quá khứ đơn (hành động đang xảy ra thì hành động khác xen vào)."
+    },
+    {
+        "id": 35,
+        "level": "A2",
+        "question": "I think it _____ rain tomorrow.",
+        "options": [
+            "will",
+            "is going to",
+            "shall",
+            "must"
+        ],
+        "answer": 0,
+        "note": "Dùng 'will' cho dự đoán mang tính cá nhân, không có căn cứ chắc chắn."
+    },
+    {
+        "id": 36,
+        "level": "A2",
+        "question": "Who _____ that window?",
+        "options": [
+            "broke",
+            "break",
+            "broken",
+            "is break"
+        ],
+        "answer": 0,
+        "note": "Câu hỏi chủ ngữ trong quá khứ đơn (V2 của break là broke)."
+    },
+    {
+        "id": 37,
+        "level": "A2",
+        "question": "She is _____ than her sister.",
+        "options": [
+            "prettier",
+            "pretty",
+            "more pretty",
+            "prettiest"
+        ],
+        "answer": 0,
+        "note": "So sánh hơn với tính từ ngắn kết thúc bằng 'y', đổi thành 'ier'."
+    },
+    {
+        "id": 38,
+        "level": "A2",
+        "question": "We _____ to the beach every summer.",
+        "options": [
+            "go",
+            "went",
+            "are going",
+            "have gone"
+        ],
+        "answer": 0,
+        "note": "Dấu hiệu 'every summer' diễn tả thói quen, dùng thì hiện tại đơn."
+    },
+    {
+        "id": 39,
+        "level": "A2",
+        "question": "I have _____ been to Japan.",
+        "options": [
+            "never",
+            "ever",
+            "yet",
+            "already"
+        ],
+        "answer": 0,
+        "note": "'Never' dùng trong câu khẳng định nhưng mang nghĩa phủ định (chưa bao giờ)."
+    },
+    {
+        "id": 40,
+        "level": "A2",
+        "question": "Are you _____ in history?",
+        "options": [
+            "interested",
+            "interesting",
+            "interest",
+            "interests"
+        ],
+        "answer": 0,
+        "note": "Tính từ đuôi '-ed' diễn tả cảm xúc của con người đối với một sự việc."
+    },
+    {
+        "id": 41,
+        "level": "B1",
+        "question": "If I _____ you, I would tell the truth.",
+        "options": [
+            "were",
+            "was",
+            "am",
+            "had been"
+        ],
+        "answer": 0,
+        "note": "Câu điều kiện loại 2: Giả định trái với hiện tại, to-be dùng 'were' cho mọi ngôi."
+    },
+    {
+        "id": 42,
+        "level": "B1",
+        "question": "I've been working here _____ five years.",
+        "options": [
+            "for",
+            "since",
+            "during",
+            "until"
+        ],
+        "answer": 0,
+        "note": "Dùng 'for' cộng với một khoảng thời gian (5 năm) trong thì HT hoàn thành."
+    },
+    {
+        "id": 43,
+        "level": "B1",
+        "question": "The letter _____ yesterday.",
+        "options": [
+            "was sent",
+            "sent",
+            "is sent",
+            "was send"
+        ],
+        "answer": 0,
+        "note": "Câu bị động thì quá khứ đơn: was/were + V3/ed."
+    },
+    {
+        "id": 44,
+        "level": "B1",
+        "question": "He asked me where I _____.",
+        "options": [
+            "lived",
+            "live",
+            "am living",
+            "was live"
+        ],
+        "answer": 0,
+        "note": "Câu tường thuật (Reported speech): Phải lùi thì từ hiện tại đơn về quá khứ đơn."
+    },
+    {
+        "id": 45,
+        "level": "B1",
+        "question": "I _____ my homework yet.",
+        "options": [
+            "haven't finished",
+            "didn't finish",
+            "don't finish",
+            "finish"
+        ],
+        "answer": 0,
+        "note": "Dấu hiệu 'yet' dùng trong câu phủ định của thì hiện tại hoàn thành."
+    },
+    {
+        "id": 46,
+        "level": "B1",
+        "question": "She is the woman _____ lives next door.",
+        "options": [
+            "who",
+            "which",
+            "whom",
+            "whose"
+        ],
+        "answer": 0,
+        "note": "Đại từ quan hệ 'who' thay thế cho danh từ chỉ người đóng vai trò chủ ngữ."
+    },
+    {
+        "id": 47,
+        "level": "B1",
+        "question": "I enjoy _____ in my free time.",
+        "options": [
+            "reading",
+            "to read",
+            "read",
+            "reads"
+        ],
+        "answer": 0,
+        "note": "Sau động từ 'enjoy' luôn đi với V-ing."
+    },
+    {
+        "id": 48,
+        "level": "B1",
+        "question": "You _____ study harder if you want to pass.",
+        "options": [
+            "should",
+            "mustn't",
+            "can",
+            "may"
+        ],
+        "answer": 0,
+        "note": "'Should' dùng để đưa ra lời khuyên."
+    },
+    {
+        "id": 49,
+        "level": "B1",
+        "question": "I used _____ to that park when I was a child.",
+        "options": [
+            "to go",
+            "going",
+            "go",
+            "went"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc 'Used to + V' diễn tả thói quen trong quá khứ đã chấm dứt."
+    },
+    {
+        "id": 50,
+        "level": "B1",
+        "question": "Although it was raining, we _____ out.",
+        "options": [
+            "went",
+            "go",
+            "have gone",
+            "were going"
+        ],
+        "answer": 0,
+        "note": "'Although' dùng để nối hai mệnh đề mang nghĩa tương phản."
+    },
+    {
+        "id": 51,
+        "level": "B1",
+        "question": "He's the man _____ car was stolen.",
+        "options": [
+            "whose",
+            "who",
+            "whom",
+            "which"
+        ],
+        "answer": 0,
+        "note": "Đại từ quan hệ 'whose' thay thế cho tính từ sở hữu (xe của ông ấy)."
+    },
+    {
+        "id": 52,
+        "level": "B1",
+        "question": "I don't know _____ to solve this problem.",
+        "options": [
+            "how",
+            "what",
+            "why",
+            "where"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc: Từ để hỏi (how/what...) + to V."
+    },
+    {
+        "id": 53,
+        "level": "B1",
+        "question": "The coffee is _____ hot to drink.",
+        "options": [
+            "too",
+            "enough",
+            "so",
+            "such"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc 'too + adj + to V' (quá... đến nỗi không thể...)."
+    },
+    {
+        "id": 54,
+        "level": "B1",
+        "question": "He is _____ intelligent than his brother.",
+        "options": [
+            "more",
+            "most",
+            "as",
+            "very"
+        ],
+        "answer": 0,
+        "note": "So sánh hơn với tính từ dài: more + adj + than."
+    },
+    {
+        "id": 55,
+        "level": "B1",
+        "question": "I wish I _____ a bigger house.",
+        "options": [
+            "had",
+            "have",
+            "have had",
+            "am having"
+        ],
+        "answer": 0,
+        "note": "Câu ước cho hiện tại dùng thì quá khứ đơn (V2 của have là had)."
+    },
+    {
+        "id": 56,
+        "level": "B1",
+        "question": "We _____ to finish the project by Friday.",
+        "options": [
+            "have",
+            "must",
+            "should",
+            "can"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc 'have to + V' chỉ sự bắt buộc khách quan."
+    },
+    {
+        "id": 57,
+        "level": "B1",
+        "question": "She _____ me that she was tired.",
+        "options": [
+            "told",
+            "said",
+            "spoke",
+            "talked"
+        ],
+        "answer": 0,
+        "note": "Dùng 'told' khi có tân ngữ chỉ người (me), 'said' không có tân ngữ trực tiếp."
+    },
+    {
+        "id": 58,
+        "level": "B1",
+        "question": "He suggested _____ to the museum.",
+        "options": [
+            "going",
+            "to go",
+            "go",
+            "goes"
+        ],
+        "answer": 0,
+        "note": "Sau động từ 'suggest' dùng V-ing."
+    },
+    {
+        "id": 59,
+        "level": "B1",
+        "question": "It was _____ a beautiful day that we went for a picnic.",
+        "options": [
+            "such",
+            "so",
+            "too",
+            "very"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc: such + (a/an) + adj + N + that..."
+    },
+    {
+        "id": 60,
+        "level": "B1",
+        "question": "I am looking forward _____ you.",
+        "options": [
+            "to meeting",
+            "to meet",
+            "meet",
+            "meeting"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc đặc biệt: Look forward to + V-ing."
+    },
+    {
+        "id": 61,
+        "level": "B1",
+        "question": "Unless you _____ now, you will be late.",
+        "options": [
+            "leave",
+            "don't leave",
+            "will leave",
+            "left"
+        ],
+        "answer": 0,
+        "note": "'Unless' = If not. Trong mệnh đề Unless không dùng phủ định."
+    },
+    {
+        "id": 62,
+        "level": "B1",
+        "question": "The car _____ in Japan.",
+        "options": [
+            "was made",
+            "made",
+            "is make",
+            "makes"
+        ],
+        "answer": 0,
+        "note": "Câu bị động: Chiếc xe được sản xuất (không tự sản xuất)."
+    },
+    {
+        "id": 63,
+        "level": "B1",
+        "question": "I haven't seen him _____ last week.",
+        "options": [
+            "since",
+            "for",
+            "from",
+            "until"
+        ],
+        "answer": 0,
+        "note": "'Since' + mốc thời gian (tuần trước) dùng trong thì HT hoàn thành."
+    },
+    {
+        "id": 64,
+        "level": "B1",
+        "question": "He's good _____ playing the guitar.",
+        "options": [
+            "at",
+            "in",
+            "on",
+            "with"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc: Be good at + V-ing/N (giỏi về cái gì)."
+    },
+    {
+        "id": 65,
+        "level": "B1",
+        "question": "I managed _____ the race.",
+        "options": [
+            "to win",
+            "winning",
+            "win",
+            "won"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc: Manage + to V (xoay sở/thành công làm gì)."
+    },
+    {
+        "id": 66,
+        "level": "B1",
+        "question": "She denied _____ the money.",
+        "options": [
+            "stealing",
+            "to steal",
+            "steal",
+            "stolen"
+        ],
+        "answer": 0,
+        "note": "Sau động từ 'deny' (phủ nhận) dùng V-ing."
+    },
+    {
+        "id": 67,
+        "level": "B1",
+        "question": "I'll call you as soon as I _____.",
+        "options": [
+            "arrive",
+            "will arrive",
+            "arrived",
+            "arriving"
+        ],
+        "answer": 0,
+        "note": "Mệnh đề trạng ngữ chỉ thời gian (as soon as) dùng hiện tại đơn cho tương lai."
+    },
+    {
+        "id": 68,
+        "level": "B1",
+        "question": "He prefers tea _____ coffee.",
+        "options": [
+            "to",
+            "than",
+            "more",
+            "over"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc: Prefer sth to sth (Thích cái gì hơn cái gì)."
+    },
+    {
+        "id": 69,
+        "level": "B1",
+        "question": "The room was filled _____ smoke.",
+        "options": [
+            "with",
+            "of",
+            "by",
+            "in"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc cố định: Be filled with (đầy rẫy cái gì)."
+    },
+    {
+        "id": 70,
+        "level": "B1",
+        "question": "I didn't _____ to like broccoli, but I do now.",
+        "options": [
+            "use",
+            "used",
+            "using",
+            "uses"
+        ],
+        "answer": 0,
+        "note": "Câu phủ định của used to: didn't use to (bỏ 'd')."
+    },
+    {
+        "id": 71,
+        "level": "B2",
+        "question": "Hardly _____ the house when it started to rain.",
+        "options": [
+            "had I left",
+            "I had left",
+            "did I leave",
+            "I left"
+        ],
+        "answer": 0,
+        "note": "Đảo ngữ: Hardly + had + S + V3/ed + when + S + V2/ed."
+    },
+    {
+        "id": 72,
+        "level": "B2",
+        "question": "Only after the meeting _____ the truth.",
+        "options": [
+            "did he realize",
+            "he realized",
+            "he has realized",
+            "he had realized"
+        ],
+        "answer": 0,
+        "note": "Đảo ngữ với Only after + N/clause: Trợ động từ + S + V."
+    },
+    {
+        "id": 73,
+        "level": "B2",
+        "question": "I'd rather you _____ me earlier.",
+        "options": [
+            "had told",
+            "told",
+            "tell",
+            "have told"
+        ],
+        "answer": 0,
+        "note": "Would rather + S + V (giả thiết trái ngược quá khứ dùng quá khứ hoàn thành)."
+    },
+    {
+        "id": 74,
+        "level": "B2",
+        "question": "It's high time we _____ home.",
+        "options": [
+            "went",
+            "go",
+            "to go",
+            "should go"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc: It's high time + S + V2/ed (Đã đến lúc phải làm gì)."
+    },
+    {
+        "id": 75,
+        "level": "B2",
+        "question": "By next year, I _____ here for ten years.",
+        "options": [
+            "will have worked",
+            "will work",
+            "will be working",
+            "work"
+        ],
+        "answer": 0,
+        "note": "Thì tương lai hoàn thành diễn tả hành động hoàn tất trước một thời điểm ở tương lai."
+    },
+    {
+        "id": 76,
+        "level": "B2",
+        "question": "Were I _____ you, I would take the job.",
+        "options": [
+            "to be",
+            "be",
+            "being",
+            "been"
+        ],
+        "answer": 0,
+        "note": "Đảo ngữ câu điều kiện loại 2: Were + S + (to V)..."
+    },
+    {
+        "id": 77,
+        "level": "B2",
+        "question": "Not only _____ beautiful but she is also kind.",
+        "options": [
+            "is she",
+            "she is",
+            "she was",
+            "is her"
+        ],
+        "answer": 0,
+        "note": "Đảo ngữ Not only: Not only + trợ động từ/be + S +..."
+    },
+    {
+        "id": 78,
+        "level": "B2",
+        "question": "No sooner _____ home than the phone rang.",
+        "options": [
+            "had I reached",
+            "I had reached",
+            "did I reach",
+            "I reached"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc đảo ngữ: No sooner + had + S + V3/ed + than..."
+    },
+    {
+        "id": 79,
+        "level": "B2",
+        "question": "I regret _____ you that the flight is delayed.",
+        "options": [
+            "to inform",
+            "informing",
+            "inform",
+            "informed"
+        ],
+        "answer": 0,
+        "note": "Regret + to V: Lấy làm tiếc khi phải thông báo (tin xấu)."
+    },
+    {
+        "id": 80,
+        "level": "B2",
+        "question": "I _____ my car repaired yesterday.",
+        "options": [
+            "had",
+            "have",
+            "was having",
+            "gotten"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc nhờ vả (Causative): Have sth + V3/ed."
+    },
+    {
+        "id": 81,
+        "level": "B2",
+        "question": "Supposing you _____ the lottery, what would you do?",
+        "options": [
+            "won",
+            "win",
+            "had won",
+            "will win"
+        ],
+        "answer": 0,
+        "note": "'Supposing' dùng như 'If' trong câu điều kiện loại 2 (giả định)."
+    },
+    {
+        "id": 82,
+        "level": "B2",
+        "question": "She was accused _____ cheating in the exam.",
+        "options": [
+            "of",
+            "for",
+            "with",
+            "about"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc: Accuse someone of doing something (buộc tội ai làm gì)."
+    },
+    {
+        "id": 83,
+        "level": "B2",
+        "question": "He succeeded _____ solving the complex puzzle.",
+        "options": [
+            "in",
+            "at",
+            "on",
+            "with"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc: Succeed in + V-ing."
+    },
+    {
+        "id": 84,
+        "level": "B2",
+        "question": "Such was _____ that he couldn't speak.",
+        "options": [
+            "his anger",
+            "he was angry",
+            "angrily",
+            "angry"
+        ],
+        "answer": 0,
+        "note": "Đảo ngữ với Such: Such + be + cụm danh từ + that..."
+    },
+    {
+        "id": 85,
+        "level": "B2",
+        "question": "I'd prefer _____ at home tonight.",
+        "options": [
+            "to stay",
+            "staying",
+            "stay",
+            "stayed"
+        ],
+        "answer": 0,
+        "note": "Would prefer + to V: Thích làm gì hơn ở một thời điểm cụ thể."
+    },
+    {
+        "id": 86,
+        "level": "B2",
+        "question": "He acts as if he _____ the boss.",
+        "options": [
+            "were",
+            "was",
+            "is",
+            "be"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc 'As if/As though' dùng 'were' cho giả định trái thực tế."
+    },
+    {
+        "id": 87,
+        "level": "B2",
+        "question": "The older I get, _____ I become.",
+        "options": [
+            "the wiser",
+            "wiser",
+            "more wise",
+            "the wisest"
+        ],
+        "answer": 0,
+        "note": "So sánh kép: The + so sánh hơn, the + so sánh hơn."
+    },
+    {
+        "id": 88,
+        "level": "B2",
+        "question": "Seldom _____ such a beautiful sunset.",
+        "options": [
+            "have I seen",
+            "I have seen",
+            "I saw",
+            "did I see"
+        ],
+        "answer": 0,
+        "note": "Đảo ngữ với trạng từ phủ định 'Seldom'."
+    },
+    {
+        "id": 89,
+        "level": "B2",
+        "question": "In spite of _____ ill, she went to work.",
+        "options": [
+            "being",
+            "she was",
+            "be",
+            "is"
+        ],
+        "answer": 0,
+        "note": "In spite of + V-ing/N."
+    },
+    {
+        "id": 90,
+        "level": "B2",
+        "question": "I'd rather _____ than go out tonight.",
+        "options": [
+            "stay in",
+            "staying in",
+            "to stay in",
+            "stayed in"
+        ],
+        "answer": 0,
+        "note": "Would rather + V (nguyên thể) khi cùng chủ ngữ."
+    },
+    {
+        "id": 91,
+        "level": "B2",
+        "question": "Should you _____ any help, just ask.",
+        "options": [
+            "need",
+            "needed",
+            "to need",
+            "needs"
+        ],
+        "answer": 0,
+        "note": "Đảo ngữ câu điều kiện loại 1: Should + S + V (nguyên thể)."
+    },
+    {
+        "id": 92,
+        "level": "B2",
+        "question": "He ________ to have committed the crime.",
+        "options": [
+            "is alleged",
+            "alleges",
+            "alleged",
+            "is alleging"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc bị động khách quan: S + be alleged + to have V3/ed."
+    },
+    {
+        "id": 93,
+        "level": "B2",
+        "question": "Little ________ how much trouble he was in.",
+        "options": [
+            "did he know",
+            "he knew",
+            "he has known",
+            "he knows"
+        ],
+        "answer": 0,
+        "note": "Đảo ngữ với 'Little': Phủ định hoàn toàn sự hiểu biết."
+    },
+    {
+        "id": 94,
+        "level": "B2",
+        "question": "The building ________ by the time you return.",
+        "options": [
+            "will have been completed",
+            "will be completed",
+            "is completed",
+            "completes"
+        ],
+        "answer": 0,
+        "note": "Bị động tương lai hoàn thành: S + will have been + V3/ed."
+    },
+    {
+        "id": 95,
+        "level": "B2",
+        "question": "Had I known, I ________ differently.",
+        "options": [
+            "would have acted",
+            "will act",
+            "acted",
+            "would act"
+        ],
+        "answer": 0,
+        "note": "Đảo ngữ câu điều kiện loại 3: Had + S + V3/ed, S + would have + V3/ed."
+    },
+    {
+        "id": 96,
+        "level": "B2",
+        "question": "You ________ me you were coming; I'd have met you.",
+        "options": [
+            "should have told",
+            "must have told",
+            "could tell",
+            "should tell"
+        ],
+        "answer": 0,
+        "note": "Should have + V3/ed: Lẽ ra nên làm gì trong quá khứ (nhưng đã không làm)."
+    },
+    {
+        "id": 97,
+        "level": "B2",
+        "question": "Under no circumstances ________ the door.",
+        "options": [
+            "should you open",
+            "you should open",
+            "you must open",
+            "open you"
+        ],
+        "answer": 0,
+        "note": "Đảo ngữ với cụm từ phủ định 'Under no circumstances'."
+    },
+    {
+        "id": 98,
+        "level": "B2",
+        "question": "I don't object ________ the meeting.",
+        "options": [
+            "to postponing",
+            "to postpone",
+            "postponing",
+            "postpone"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc: Object to + V-ing (phản đối việc gì)."
+    },
+    {
+        "id": 99,
+        "level": "B2",
+        "question": "It is essential that he ________ here on time.",
+        "options": [
+            "be",
+            "is",
+            "was",
+            "will be"
+        ],
+        "answer": 0,
+        "note": "Câu giả định (Subjunctive): It is essential that + S + V (nguyên thể không chia)."
+    },
+    {
+        "id": 100,
+        "level": "B2",
+        "question": "Provided that you ________ hard, you will pass.",
+        "options": [
+            "study",
+            "will study",
+            "studied",
+            "studying"
+        ],
+        "answer": 0,
+        "note": "Provided that = If. Dùng hiện tại đơn trong mệnh đề điều kiện."
+    },
+    {
+        "id": 101,
+        "level": "A1",
+        "question": "What is your phone number?",
+        "options": [
+            "It is 0123456789.",
+            "I am 18.",
+            "I live in Hanoi.",
+            "My name is An."
+        ],
+        "answer": 0,
+        "note": "Dùng 'It is + số điện thoại' để trả lời câu hỏi về mã số, số điện thoại."
+    },
+    {
+        "id": 102,
+        "level": "A1",
+        "question": "How do you spell your name?",
+        "options": [
+            "A-N-N-A.",
+            "I am Anna.",
+            "It is a name.",
+            "Yes, I do."
+        ],
+        "answer": 0,
+        "note": "'Spell' nghĩa là đánh vần. Trả lời bằng cách đọc từng chữ cái trong tên."
+    },
+    {
+        "id": 103,
+        "level": "A1",
+        "question": "Is this your pen?",
+        "options": [
+            "Yes, it is mine.",
+            "Yes, I am.",
+            "No, I don't.",
+            "It is blue."
+        ],
+        "answer": 0,
+        "note": "Sử dụng đại từ sở hữu 'mine' (của tôi) để tránh lặp lại từ 'pen'."
+    },
+    {
+        "id": 104,
+        "level": "A1",
+        "question": "Where are the keys?",
+        "options": [
+            "They are in the bag.",
+            "It is in the bag.",
+            "They are happy.",
+            "They are red."
+        ],
+        "answer": 0,
+        "note": "'Keys' là số nhiều nên dùng đại từ 'They' và động từ 'are'."
+    },
+    {
+        "id": 105,
+        "level": "A1",
+        "question": "What do you do?",
+        "options": [
+            "I am a student.",
+            "I am doing well.",
+            "I am 20.",
+            "I live here."
+        ],
+        "answer": 0,
+        "note": "'What do you do?' là câu hỏi về nghề nghiệp, không phải hỏi đang làm gì."
+    },
+    {
+        "id": 106,
+        "level": "A1",
+        "question": "How many people are there in your family?",
+        "options": [
+            "There are four.",
+            "They are fine.",
+            "It is four.",
+            "I have four."
+        ],
+        "answer": 0,
+        "note": "Cấu trúc 'There are + số lượng' dùng để trả lời cho câu hỏi 'How many'."
+    },
+    {
+        "id": 107,
+        "level": "A1",
+        "question": "What is the weather like?",
+        "options": [
+            "It is sunny.",
+            "I like sun.",
+            "It is Monday.",
+            "It is big."
+        ],
+        "answer": 0,
+        "note": "'What is the weather like?' dùng để hỏi về tình hình thời tiết."
+    },
+    {
+        "id": 108,
+        "level": "A1",
+        "question": "I _____ breakfast at 7 AM every day.",
+        "options": [
+            "have",
+            "has",
+            "having",
+            "had"
+        ],
+        "answer": 0,
+        "note": "Thì hiện tại đơn với chủ ngữ 'I', động từ 'have' giữ nguyên mẫu."
+    },
+    {
+        "id": 109,
+        "level": "A1",
+        "question": "She _____ like spicy food.",
+        "options": [
+            "doesn't",
+            "don't",
+            "isn't",
+            "hasn't"
+        ],
+        "answer": 0,
+        "note": "Trợ động từ phủ định 'doesn't' dùng cho ngôi thứ 3 số ít (She/He/It)."
+    },
+    {
+        "id": 110,
+        "level": "A1",
+        "question": "_____ you speak English?",
+        "options": [
+            "Do",
+            "Does",
+            "Are",
+            "Is"
+        ],
+        "answer": 0,
+        "note": "Dùng trợ động từ 'Do' cho câu hỏi nghi vấn của động từ thường với chủ ngữ 'you'."
+    },
+    {
+        "id": 111,
+        "level": "A1",
+        "question": "These books _____ very interesting.",
+        "options": [
+            "are",
+            "is",
+            "am",
+            "be"
+        ],
+        "answer": 0,
+        "note": "'These books' là danh từ số nhiều, đi với động từ to-be 'are'."
+    },
+    {
+        "id": 112,
+        "level": "A1",
+        "question": "My brother _____ to music now.",
+        "options": [
+            "is listening",
+            "listens",
+            "listen",
+            "are listening"
+        ],
+        "answer": 0,
+        "note": "Dấu hiệu 'now' (bây giờ) yêu cầu chia thì hiện tại tiếp diễn (be + V-ing)."
+    },
+    {
+        "id": 113,
+        "level": "A1",
+        "question": "I have two _____ .",
+        "options": [
+            "children",
+            "childs",
+            "childes",
+            "child"
+        ],
+        "answer": 0,
+        "note": "'Children' là dạng số nhiều đặc biệt (irregular) của 'child'."
+    },
+    {
+        "id": 114,
+        "level": "A1",
+        "question": "Whose bag is this?",
+        "options": [
+            "It is Mary's.",
+            "It is Mary.",
+            "It is of Mary.",
+            "It is to Mary."
+        ],
+        "answer": 0,
+        "note": "Dùng sở hữu cách ('s) sau tên riêng để chỉ quyền sở hữu."
+    },
+    {
+        "id": 115,
+        "level": "A1",
+        "question": "_____ do you go to the gym?",
+        "options": [
+            "How often",
+            "How many",
+            "How much",
+            "How long"
+        ],
+        "answer": 0,
+        "note": "'How often' dùng để hỏi về tần suất (bao lâu một lần)."
+    },
+    {
+        "id": 116,
+        "level": "A1",
+        "question": "I can't see _____. It's too dark.",
+        "options": [
+            "anything",
+            "something",
+            "nothing",
+            "everything"
+        ],
+        "answer": 0,
+        "note": "Dùng 'anything' trong câu phủ định (can't) để chỉ 'bất cứ cái gì'."
+    },
+    {
+        "id": 117,
+        "level": "A1",
+        "question": "There isn't _____ orange juice left.",
+        "options": [
+            "any",
+            "some",
+            "a",
+            "an"
+        ],
+        "answer": 0,
+        "note": "'Any' dùng với danh từ không đếm được trong câu phủ định."
+    },
+    {
+        "id": 118,
+        "level": "A1",
+        "question": "We _____ a movie last night.",
+        "options": [
+            "watched",
+            "watch",
+            "watches",
+            "watching"
+        ],
+        "answer": 0,
+        "note": "Dấu hiệu 'last night' yêu cầu chia thì quá khứ đơn (V-ed)."
+    },
+    {
+        "id": 119,
+        "level": "A1",
+        "question": "Please _____ the window.",
+        "options": [
+            "open",
+            "opening",
+            "to open",
+            "opened"
+        ],
+        "answer": 0,
+        "note": "Câu mệnh lệnh bắt đầu bằng động từ nguyên mẫu (V-bare)."
+    },
+    {
+        "id": 120,
+        "level": "A1",
+        "question": "This is my _____ car.",
+        "options": [
+            "parents'",
+            "parent's",
+            "parents",
+            "parent"
+        ],
+        "answer": 0,
+        "note": "Sở hữu cách của danh từ số nhiều có tận cùng là 's' chỉ cần thêm dấu phẩy (')."
+    },
+    {
+        "id": 121,
+        "level": "A2",
+        "question": "I _____ a great movie yesterday.",
+        "options": [
+            "saw",
+            "see",
+            "have seen",
+            "was see"
+        ],
+        "answer": 0,
+        "note": "Dấu hiệu 'yesterday' chia quá khứ đơn. 'Saw' là cột 2 của 'see'."
+    },
+    {
+        "id": 122,
+        "level": "A2",
+        "question": "She is _____ than her brother.",
+        "options": [
+            "older",
+            "old",
+            "oldest",
+            "more old"
+        ],
+        "answer": 0,
+        "note": "So sánh hơn của tính từ ngắn (old): adj + er + than."
+    },
+    {
+        "id": 123,
+        "level": "A2",
+        "question": "Have you _____ your room yet?",
+        "options": [
+            "cleaned",
+            "clean",
+            "cleans",
+            "cleaning"
+        ],
+        "answer": 0,
+        "note": "Thì hiện tại hoàn thành: Have + V3/ed. 'Yet' dùng trong câu hỏi."
+    },
+    {
+        "id": 124,
+        "level": "A2",
+        "question": "You _____ smoke here. It's forbidden.",
+        "options": [
+            "mustn't",
+            "don't have to",
+            "shouldn't",
+            "can't"
+        ],
+        "answer": 0,
+        "note": "'Mustn't' dùng để chỉ sự cấm đoán (không được phép)."
+    },
+    {
+        "id": 125,
+        "level": "A2",
+        "question": "If I have time, I _____ you.",
+        "options": [
+            "will call",
+            "call",
+            "called",
+            "would call"
+        ],
+        "answer": 0,
+        "note": "Câu điều kiện loại 1 (có thể xảy ra): If + Hiện tại đơn, S + will + V."
+    },
+    {
+        "id": 126,
+        "level": "A2",
+        "question": "I _____ to London three times.",
+        "options": [
+            "have been",
+            "was",
+            "go",
+            "went"
+        ],
+        "answer": 0,
+        "note": "Diễn tả trải nghiệm đã từng làm gì đó đến nay, dùng hiện tại hoàn thành."
+    },
+    {
+        "id": 127,
+        "level": "A2",
+        "question": "What _____ you doing when I called?",
+        "options": [
+            "were",
+            "was",
+            "are",
+            "did"
+        ],
+        "answer": 0,
+        "note": "Thì quá khứ tiếp diễn: Một hành động đang xảy ra (were doing) thì hành động khác xen vào (called)."
+    },
+    {
+        "id": 128,
+        "level": "A2",
+        "question": "This is the _____ book I've ever read.",
+        "options": [
+            "best",
+            "good",
+            "better",
+            "most good"
+        ],
+        "answer": 0,
+        "note": "So sánh nhất của tính từ đặc biệt 'good' là 'the best'."
+    },
+    {
+        "id": 129,
+        "level": "A2",
+        "question": "I'm _____ than my friend.",
+        "options": [
+            "taller",
+            "tall",
+            "tallest",
+            "more tall"
+        ],
+        "answer": 0,
+        "note": "So sánh hơn với tính từ ngắn (tall) thêm đuôi '-er'."
+    },
+    {
+        "id": 130,
+        "level": "A2",
+        "question": "He _____ play the piano when he was five.",
+        "options": [
+            "could",
+            "can",
+            "should",
+            "must"
+        ],
+        "answer": 0,
+        "note": "'Could' là quá khứ của 'can', diễn tả khả năng trong quá khứ."
+    },
+    {
+        "id": 131,
+        "level": "A2",
+        "question": "There are _____ students in the classroom.",
+        "options": [
+            "some",
+            "any",
+            "a",
+            "much"
+        ],
+        "answer": 0,
+        "note": "'Some' dùng trong câu khẳng định với danh từ số nhiều."
+    },
+    {
+        "id": 132,
+        "level": "A2",
+        "question": "I _____ my homework at the moment.",
+        "options": [
+            "am doing",
+            "do",
+            "does",
+            "did"
+        ],
+        "answer": 0,
+        "note": "'At the moment' là dấu hiệu của thì hiện tại tiếp diễn."
+    },
+    {
+        "id": 133,
+        "level": "A2",
+        "question": "She _____ to the gym every morning.",
+        "options": [
+            "goes",
+            "go",
+            "going",
+            "gone"
+        ],
+        "answer": 0,
+        "note": "Thói quen ở hiện tại, chủ ngữ 'She' động từ thêm 'es'."
+    },
+    {
+        "id": 134,
+        "level": "A2",
+        "question": "We _____ to the party next Saturday.",
+        "options": [
+            "are going",
+            "go",
+            "went",
+            "have gone"
+        ],
+        "answer": 0,
+        "note": "Thì hiện tại tiếp diễn dùng để chỉ một kế hoạch chắc chắn trong tương lai gần."
+    },
+    {
+        "id": 135,
+        "level": "A2",
+        "question": "I _____ a new car last week.",
+        "options": [
+            "bought",
+            "buy",
+            "buys",
+            "buying"
+        ],
+        "answer": 0,
+        "note": "Thì quá khứ đơn, 'bought' là dạng quá khứ của 'buy'."
+    },
+    {
+        "id": 136,
+        "level": "A2",
+        "question": "He _____ lunch when I arrived.",
+        "options": [
+            "was having",
+            "had",
+            "has",
+            "is having"
+        ],
+        "answer": 0,
+        "note": "Hành động đang diễn ra trong quá khứ (was having) thì có hành động khác ngắt quãng."
+    },
+    {
+        "id": 137,
+        "level": "A2",
+        "question": "This is the _____ house in the street.",
+        "options": [
+            "biggest",
+            "bigger",
+            "big",
+            "most big"
+        ],
+        "answer": 0,
+        "note": "So sánh nhất tính từ ngắn 1 âm tiết kết thúc CVC: gấp đôi phụ âm cuối + est."
+    },
+    {
+        "id": 138,
+        "level": "A2",
+        "question": "I've _____ finished my work.",
+        "options": [
+            "already",
+            "yet",
+            "ever",
+            "never"
+        ],
+        "answer": 0,
+        "note": "'Already' dùng trong câu khẳng định của thì hiện tại hoàn thành, nghĩa là 'đã rồi'."
+    },
+    {
+        "id": 139,
+        "level": "A2",
+        "question": "Would you like _____ coffee?",
+        "options": [
+            "some",
+            "any",
+            "a",
+            "an"
+        ],
+        "answer": 0,
+        "note": "Trong lời mời lịch sự, dùng 'some' thay vì 'any' dù là câu hỏi."
+    },
+    {
+        "id": 140,
+        "level": "A2",
+        "question": "She is _____ at English than me.",
+        "options": [
+            "better",
+            "good",
+            "best",
+            "more good"
+        ],
+        "answer": 0,
+        "note": "So sánh hơn của 'good' là 'better'."
+    },
+    {
+        "id": 141,
+        "level": "B1",
+        "question": "I wish I _____ more money.",
+        "options": [
+            "had",
+            "have",
+            "have had",
+            "am having"
+        ],
+        "answer": 0,
+        "note": "Câu ước cho hiện tại (Wish + quá khứ đơn) diễn tả điều không có thật lúc này."
+    },
+    {
+        "id": 142,
+        "level": "B1",
+        "question": "If I _____ you, I wouldn't do that.",
+        "options": [
+            "were",
+            "was",
+            "am",
+            "had been"
+        ],
+        "answer": 0,
+        "note": "Câu điều kiện loại 2, động từ to-be 'were' dùng cho tất cả các ngôi chủ ngữ."
+    },
+    {
+        "id": 143,
+        "level": "B1",
+        "question": "The bridge _____ in 1990.",
+        "options": [
+            "was built",
+            "built",
+            "is built",
+            "was build"
+        ],
+        "answer": 0,
+        "note": "Câu bị động quá khứ đơn: was/were + V3/ed."
+    },
+    {
+        "id": 144,
+        "level": "B1",
+        "question": "I've been studying English _____ three years.",
+        "options": [
+            "for",
+            "since",
+            "during",
+            "until"
+        ],
+        "answer": 0,
+        "note": "'For' + khoảng thời gian (3 năm) dùng trong thì hoàn thành."
+    },
+    {
+        "id": 145,
+        "level": "B1",
+        "question": "He asked me _____ I liked the film.",
+        "options": [
+            "if",
+            "that",
+            "what",
+            "which"
+        ],
+        "answer": 0,
+        "note": "Câu tường thuật dạng câu hỏi Yes/No: dùng 'if' hoặc 'whether' để nối."
+    },
+    {
+        "id": 146,
+        "level": "B1",
+        "question": "I _____ my teeth when the phone rang.",
+        "options": [
+            "was brushing",
+            "brushed",
+            "brush",
+            "brushes"
+        ],
+        "answer": 0,
+        "note": "Hành động đang xảy ra (was brushing) bị hành động khác cắt ngang (rang)."
+    },
+    {
+        "id": 147,
+        "level": "B1",
+        "question": "She is the woman _____ daughter is a doctor.",
+        "options": [
+            "whose",
+            "who",
+            "whom",
+            "which"
+        ],
+        "answer": 0,
+        "note": "Đại từ quan hệ 'whose' chỉ sự sở hữu (con gái của bà ấy)."
+    },
+    {
+        "id": 148,
+        "level": "B1",
+        "question": "I'm looking forward _____ you again.",
+        "options": [
+            "to seeing",
+            "to meet",
+            "see",
+            "seeing"
+        ],
+        "answer": 0,
+        "note": "Cụm từ cố định: Look forward to + V-ing (mong đợi điều gì)."
+    },
+    {
+        "id": 149,
+        "level": "B1",
+        "question": "You _____ better see a doctor.",
+        "options": [
+            "had",
+            "would",
+            "should",
+            "could"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc 'Had better + V' mang nghĩa nên làm gì (lời khuyên mạnh mẽ)."
+    },
+    {
+        "id": 150,
+        "level": "B1",
+        "question": "Although it was cold, he _____ wear a coat.",
+        "options": [
+            "didn't",
+            "doesn't",
+            "wasn't",
+            "isn't"
+        ],
+        "answer": 0,
+        "note": "Dùng trợ động từ phủ định 'didn't' vì câu đang kể về sự việc trong quá khứ."
+    },
+    {
+        "id": 151,
+        "level": "B1",
+        "question": "He's the man _____ I met at the party.",
+        "options": [
+            "whom",
+            "who",
+            "which",
+            "whose"
+        ],
+        "answer": 0,
+        "note": "'Whom' làm tân ngữ thay thế cho người (tôi đã gặp ông ấy)."
+    },
+    {
+        "id": 152,
+        "level": "B1",
+        "question": "I don't know _____ to do.",
+        "options": [
+            "what",
+            "how",
+            "why",
+            "where"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc: Từ để hỏi + to V. 'What to do' nghĩa là làm cái gì."
+    },
+    {
+        "id": 153,
+        "level": "B1",
+        "question": "The water is _____ cold to swim in.",
+        "options": [
+            "too",
+            "enough",
+            "so",
+            "such"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc: 'too + adj + to V' (quá... đến nỗi không thể...)."
+    },
+    {
+        "id": 154,
+        "level": "B1",
+        "question": "He is _____ intelligent than his sister.",
+        "options": [
+            "more",
+            "most",
+            "as",
+            "very"
+        ],
+        "answer": 0,
+        "note": "So sánh hơn với tính từ dài: more + adj + than."
+    },
+    {
+        "id": 155,
+        "level": "B1",
+        "question": "I wish I _____ to the party last night.",
+        "options": [
+            "had gone",
+            "went",
+            "go",
+            "have gone"
+        ],
+        "answer": 0,
+        "note": "Câu ước cho quá khứ (trái với sự thật đã xảy ra): Wish + quá khứ hoàn thành."
+    },
+    {
+        "id": 156,
+        "level": "B1",
+        "question": "We _____ to wear a uniform at work.",
+        "options": [
+            "have",
+            "must",
+            "should",
+            "can"
+        ],
+        "answer": 0,
+        "note": "'Have to' diễn tả sự bắt buộc do ngoại cảnh hoặc quy định đề ra."
+    },
+    {
+        "id": 157,
+        "level": "B1",
+        "question": "She _____ that she was happy.",
+        "options": [
+            "said",
+            "told",
+            "spoke",
+            "talked"
+        ],
+        "answer": 0,
+        "note": "Dùng 'said' khi không có tân ngữ chỉ người phía sau (said that...)."
+    },
+    {
+        "id": 158,
+        "level": "B1",
+        "question": "He suggested _____ to the cinema.",
+        "options": [
+            "going",
+            "to go",
+            "go",
+            "goes"
+        ],
+        "answer": 0,
+        "note": "Sau động từ 'suggest' (gợi ý), động từ theo sau chia V-ing."
+    },
+    {
+        "id": 159,
+        "level": "B1",
+        "question": "It was _____ a nice day that we went out.",
+        "options": [
+            "such",
+            "so",
+            "too",
+            "very"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc: such + a/an + adj + N + that."
+    },
+    {
+        "id": 160,
+        "level": "B1",
+        "question": "I am interested _____ learning more.",
+        "options": [
+            "in",
+            "at",
+            "on",
+            "with"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc cố định: Be interested in + V-ing (quan tâm, hứng thú về...)."
+    },
+    {
+        "id": 161,
+        "level": "B1",
+        "question": "Unless you _____ now, you'll be late.",
+        "options": [
+            "leave",
+            "don't leave",
+            "will leave",
+            "left"
+        ],
+        "answer": 0,
+        "note": "'Unless' mang nghĩa 'nếu không'. Trong mệnh đề 'unless' dùng thể khẳng định."
+    },
+    {
+        "id": 162,
+        "level": "B1",
+        "question": "The car _____ in Germany.",
+        "options": [
+            "was made",
+            "made",
+            "is make",
+            "makes"
+        ],
+        "answer": 0,
+        "note": "Câu bị động: was/were + V3/ed (được làm tại...)."
+    },
+    {
+        "id": 163,
+        "level": "B1",
+        "question": "I haven't seen her _____ Monday.",
+        "options": [
+            "since",
+            "for",
+            "from",
+            "until"
+        ],
+        "answer": 0,
+        "note": "'Since' + mốc thời gian (thứ Hai) dùng trong thì hoàn thành."
+    },
+    {
+        "id": 164,
+        "level": "B1",
+        "question": "He's good _____ mathematics.",
+        "options": [
+            "at",
+            "in",
+            "on",
+            "with"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc cố định: Be good at something (giỏi môn gì/việc gì)."
+    },
+    {
+        "id": 165,
+        "level": "B1",
+        "question": "I managed _____ the project on time.",
+        "options": [
+            "to finish",
+            "finishing",
+            "finish",
+            "finished"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc: Manage + to V (xoay sở thành công làm gì đó)."
+    },
+    {
+        "id": 166,
+        "level": "B1",
+        "question": "She denied _____ the car.",
+        "options": [
+            "stealing",
+            "to steal",
+            "steal",
+            "stolen"
+        ],
+        "answer": 0,
+        "note": "Sau động từ 'deny' (phủ nhận), động từ theo sau chia V-ing."
+    },
+    {
+        "id": 167,
+        "level": "B1",
+        "question": "I'll let you know as soon as I _____.",
+        "options": [
+            "hear",
+            "will hear",
+            "heard",
+            "hearing"
+        ],
+        "answer": 0,
+        "note": "Mệnh đề trạng ngữ chỉ thời gian dùng thì hiện tại đơn để nói về tương lai."
+    },
+    {
+        "id": 168,
+        "level": "B1",
+        "question": "He prefers swimming _____ running.",
+        "options": [
+            "to",
+            "than",
+            "more",
+            "over"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc: Prefer V-ing to V-ing (thích làm gì hơn làm gì)."
+    },
+    {
+        "id": 169,
+        "level": "B1",
+        "question": "The glass was broken _____ my brother.",
+        "options": [
+            "by",
+            "with",
+            "of",
+            "from"
+        ],
+        "answer": 0,
+        "note": "Dùng 'by' để chỉ tác nhân thực hiện hành động trong câu bị động."
+    },
+    {
+        "id": 170,
+        "level": "B1",
+        "question": "I didn't _____ to like vegetables.",
+        "options": [
+            "use",
+            "used",
+            "using",
+            "uses"
+        ],
+        "answer": 0,
+        "note": "Câu phủ định của used to: S + didn't + use (không có d) + to V."
+    },
+    {
+        "id": 171,
+        "level": "B2",
+        "question": "Hardly _____ the game started when it rained.",
+        "options": [
+            "had",
+            "did",
+            "was",
+            "has"
+        ],
+        "answer": 0,
+        "note": "Đảo ngữ với Hardly: Hardly + had + S + V3/ed + when..."
+    },
+    {
+        "id": 172,
+        "level": "B2",
+        "question": "No sooner _____ we sat down than the bell rang.",
+        "options": [
+            "had",
+            "did",
+            "was",
+            "has"
+        ],
+        "answer": 0,
+        "note": "Đảo ngữ với No sooner: No sooner + had + S + V3/ed + than..."
+    },
+    {
+        "id": 173,
+        "level": "B2",
+        "question": "Only when I arrived _____ I realized my mistake.",
+        "options": [
+            "did",
+            "was",
+            "had",
+            "have"
+        ],
+        "answer": 0,
+        "note": "Đảo ngữ với Only when: Mệnh đề đầu giữ nguyên, đảo ngữ ở mệnh đề sau."
+    },
+    {
+        "id": 174,
+        "level": "B2",
+        "question": "I'd rather you _____ stay here tonight.",
+        "options": [
+            "didn't",
+            "don't",
+            "not",
+            "won't"
+        ],
+        "answer": 0,
+        "note": "Would rather (someone) + V2/ed: Muốn ai đó làm/không làm gì ở hiện tại."
+    },
+    {
+        "id": 175,
+        "level": "B2",
+        "question": "It's time we _____ leaving.",
+        "options": [
+            "were",
+            "are",
+            "be",
+            "was"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc: It's time + S + V2/ed (Đã đến lúc chúng ta phải...)."
+    },
+    {
+        "id": 176,
+        "level": "B2",
+        "question": "By this time next year, I _____ my degree.",
+        "options": [
+            "will have finished",
+            "will finish",
+            "finish",
+            "finished"
+        ],
+        "answer": 0,
+        "note": "Tương lai hoàn thành: Hành động sẽ hoàn thành trước mốc thời gian trong tương lai."
+    },
+    {
+        "id": 177,
+        "level": "B2",
+        "question": "Had I known, I _____ you.",
+        "options": [
+            "would have helped",
+            "will help",
+            "helped",
+            "would help"
+        ],
+        "answer": 0,
+        "note": "Đảo ngữ điều kiện loại 3: Had + S + V3, S + would have + V3."
+    },
+    {
+        "id": 178,
+        "level": "B2",
+        "question": "Not only _____ he late, but he also forgot his books.",
+        "options": [
+            "was",
+            "is",
+            "did",
+            "has"
+        ],
+        "answer": 0,
+        "note": "Đảo ngữ với 'Not only': Not only + trợ động từ/be + S..."
+    },
+    {
+        "id": 179,
+        "level": "B2",
+        "question": "Scarcely _____ I entered the room when the lights went out.",
+        "options": [
+            "had",
+            "did",
+            "was",
+            "has"
+        ],
+        "answer": 0,
+        "note": "Đảo ngữ Scarcely: Scarcely + had + S + V3 + when..."
+    },
+    {
+        "id": 180,
+        "level": "B2",
+        "question": "I regret _____ you that you failed.",
+        "options": [
+            "to inform",
+            "informing",
+            "inform",
+            "informed"
+        ],
+        "answer": 0,
+        "note": "Regret + to V: Lấy làm tiếc khi phải báo tin xấu."
+    },
+    {
+        "id": 181,
+        "level": "B2",
+        "question": "I _____ my hair cut yesterday.",
+        "options": [
+            "had",
+            "have",
+            "was having",
+            "got"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc nhờ vả (Causative): Have someone do sth -> Have sth done (V3)."
+    },
+    {
+        "id": 182,
+        "level": "B2",
+        "question": "Supposing you _____ lost, what would you do?",
+        "options": [
+            "got",
+            "get",
+            "had got",
+            "will get"
+        ],
+        "answer": 0,
+        "note": "'Supposing' giả định tình huống không có thật ở hiện tại (tương tự If loại 2)."
+    },
+    {
+        "id": 183,
+        "level": "B2",
+        "question": "She was accused _____ lying.",
+        "options": [
+            "of",
+            "for",
+            "with",
+            "about"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc cố định: Accuse someone of doing something (buộc tội ai làm gì)."
+    },
+    {
+        "id": 184,
+        "level": "B2",
+        "question": "He succeeded _____ winning the race.",
+        "options": [
+            "in",
+            "at",
+            "on",
+            "with"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc cố định: Succeed in doing something (thành công trong việc gì)."
+    },
+    {
+        "id": 185,
+        "level": "B2",
+        "question": "Such was _____ that she started crying.",
+        "options": [
+            "her sadness",
+            "she was sad",
+            "sadly",
+            "sad"
+        ],
+        "answer": 0,
+        "note": "Đảo ngữ với Such: Such + be + N + that..."
+    },
+    {
+        "id": 186,
+        "level": "B2",
+        "question": "I'd prefer _____ at home today.",
+        "options": [
+            "to stay",
+            "staying",
+            "stay",
+            "stayed"
+        ],
+        "answer": 0,
+        "note": "Would prefer + to V: Thích làm gì hơn tại một thời điểm cụ thể."
+    },
+    {
+        "id": 187,
+        "level": "B2",
+        "question": "He behaves as though he _____ the owner.",
+        "options": [
+            "were",
+            "was",
+            "is",
+            "be"
+        ],
+        "answer": 0,
+        "note": "Giả định không thực với 'as though': dùng 'were' cho mọi ngôi."
+    },
+    {
+        "id": 188,
+        "level": "B2",
+        "question": "The older he gets, _____ he becomes.",
+        "options": [
+            "the wiser",
+            "wiser",
+            "more wise",
+            "the wisest"
+        ],
+        "answer": 0,
+        "note": "So sánh kép: The + so sánh hơn, the + so sánh hơn."
+    },
+    {
+        "id": 189,
+        "level": "B2",
+        "question": "Rarely _____ such a beautiful view.",
+        "options": [
+            "have I seen",
+            "I have seen",
+            "I saw",
+            "did I see"
+        ],
+        "answer": 0,
+        "note": "Đảo ngữ với trạng từ phủ định 'Rarely' đứng đầu câu."
+    },
+    {
+        "id": 190,
+        "level": "B2",
+        "question": "In spite of _____ tired, he finished the work.",
+        "options": [
+            "being",
+            "he was",
+            "be",
+            "is"
+        ],
+        "answer": 0,
+        "note": "Sau 'In spite of' phải là một danh từ hoặc V-ing."
+    },
+    {
+        "id": 191,
+        "level": "B2",
+        "question": "I'd rather _____ at home than go to the party.",
+        "options": [
+            "stay",
+            "staying",
+            "to stay",
+            "stayed"
+        ],
+        "answer": 0,
+        "note": "Would rather + V1 + than + V1 (Thích làm gì hơn làm gì)."
+    },
+    {
+        "id": 192,
+        "level": "B2",
+        "question": "Should you _____ any questions, please ask.",
+        "options": [
+            "have",
+            "had",
+            "to have",
+            "has"
+        ],
+        "answer": 0,
+        "note": "Đảo ngữ điều kiện loại 1: Should + S + V nguyên thể."
+    },
+    {
+        "id": 193,
+        "level": "B2",
+        "question": "He is alleged _____ stolen the money.",
+        "options": [
+            "to have",
+            "having",
+            "has",
+            "to had"
+        ],
+        "answer": 0,
+        "note": "Bị động khách quan: S + be alleged + to have V3 (được cho là đã làm gì)."
+    },
+    {
+        "id": 194,
+        "level": "B2",
+        "question": "Little _____ he know about her secret.",
+        "options": [
+            "did",
+            "do",
+            "was",
+            "had"
+        ],
+        "answer": 0,
+        "note": "Đảo ngữ với 'Little' mang nghĩa phủ định: 'Anh ta gần như không biết gì'."
+    },
+    {
+        "id": 195,
+        "level": "B2",
+        "question": "The house _____ by the time they arrive.",
+        "options": [
+            "will have been sold",
+            "will be sold",
+            "is sold",
+            "sells"
+        ],
+        "answer": 0,
+        "note": "Bị động tương lai hoàn thành: will have been + V3."
+    },
+    {
+        "id": 196,
+        "level": "B2",
+        "question": "Had you asked, I _____ you.",
+        "options": [
+            "would have told",
+            "will tell",
+            "told",
+            "would tell"
+        ],
+        "answer": 0,
+        "note": "Đảo ngữ điều kiện loại 3: Had + S + V3, S + would have + V3."
+    },
+    {
+        "id": 197,
+        "level": "B2",
+        "question": "You _____ told me you were ill.",
+        "options": [
+            "should have",
+            "must have",
+            "could have",
+            "should"
+        ],
+        "answer": 0,
+        "note": "Should have + V3: Lẽ ra nên làm gì trong quá khứ (nhưng thực tế đã không làm)."
+    },
+    {
+        "id": 198,
+        "level": "B2",
+        "question": "Under no circumstances _____ you tell him.",
+        "options": [
+            "should",
+            "you should",
+            "must",
+            "do you"
+        ],
+        "answer": 0,
+        "note": "Đảo ngữ với cụm phủ định đứng đầu: Cụm từ phủ định + trợ động từ + S + V."
+    },
+    {
+        "id": 199,
+        "level": "B2",
+        "question": "I object _____ to that music.",
+        "options": [
+            "to listening",
+            "to listen",
+            "listening",
+            "listen"
+        ],
+        "answer": 0,
+        "note": "Cấu trúc cố định: Object to + V-ing (phản đối việc gì)."
+    },
+    {
+        "id": 200,
+        "level": "B2",
+        "question": "It is vital that she _____ informed.",
+        "options": [
+            "be",
+            "is",
+            "was",
+            "will be"
+        ],
+        "answer": 0,
+        "note": "Câu giả định (Subjunctive mood) sau 'vital': S + V nguyên thể (không chia)."
+    },
+    {
+        "id": 201,
+        "level": "A1",
+        "question": "What do you think about AI?",
+        "options": [
+            "It is very useful.",
+            "It is a person.",
+            "I like it.",
+            "It is red."
+        ],
+        "answer": 0,
+        "note": "Dùng 'It is + adj' để đưa ra đánh giá về một chủ đề/sự vật."
+    },
+    {
+        "id": 202,
+        "level": "A1",
+        "question": "I study at IUH.",
+        "options": [
+            "That's great!",
+            "No, I don't.",
+            "I am a student.",
+            "I like IUH."
+        ],
+        "answer": 0,
+        "note": "Khi ai đó chia sẻ thông tin, hãy đáp lại bằng một lời tán đồng/khen ngợi."
+    },
+    {
+        "id": 203,
+        "level": "A1",
+        "question": "Can you help me?",
+        "options": [
+            "Yes, of course.",
+            "Yes, I can.",
+            "No, I do.",
+            "I can help."
+        ],
+        "answer": 0,
+        "note": "'Of course' là cách đáp lại lịch sự và phổ biến cho yêu cầu giúp đỡ."
+    },
+    {
+        "id": 204,
+        "level": "A1",
+        "question": "What's your favorite subject?",
+        "options": [
+            "I like Computer Science.",
+            "I am a student.",
+            "It is big.",
+            "I like it."
+        ],
+        "answer": 0,
+        "note": "Trả lời bằng tên môn học (Computer Science - Khoa học máy tính)."
+    },
+    {
+        "id": 205,
+        "level": "A1",
+        "question": "Do you live near the campus?",
+        "options": [
+            "Yes, just 5 minutes away.",
+            "Yes, I do.",
+            "No, I am not.",
+            "I live here."
+        ],
+        "answer": 0,
+        "note": "Dùng 'just + thời gian + away' để nói về khoảng cách địa lý."
+    },
+    {
+        "id": 206,
+        "level": "A1",
+        "question": "I am very tired.",
+        "options": [
+            "You should rest.",
+            "I am happy.",
+            "That's fine.",
+            "You are tired."
+        ],
+        "answer": 0,
+        "note": "Khi người khác nói về tình trạng mệt mỏi, 'You should rest' là lời khuyên hợp lý."
+    },
+    {
+        "id": 207,
+        "level": "A1",
+        "question": "What time does the class start?",
+        "options": [
+            "It starts at 8 AM.",
+            "It is 8 AM.",
+            "At 8 AM.",
+            "I start at 8."
+        ],
+        "answer": 0,
+        "note": "Thì hiện tại đơn dùng cho thời gian biểu cố định (Starts at...)."
+    },
+    {
+        "id": 208,
+        "level": "A1",
+        "question": "Where is the library?",
+        "options": [
+            "It's on the 4th floor.",
+            "It's big.",
+            "It's a library.",
+            "It's here."
+        ],
+        "answer": 0,
+        "note": "'On the + số thứ tự + floor' là cách chỉ vị trí tầng trong tòa nhà."
+    },
+    {
+        "id": 209,
+        "level": "A1",
+        "question": "Are you busy now?",
+        "options": [
+            "No, I'm free.",
+            "Yes, I do.",
+            "I am busy.",
+            "No, I am."
+        ],
+        "answer": 0,
+        "note": "'Free' trái nghĩa với 'busy' (bận), dùng để trả lời câu hỏi hiện trạng."
+    },
+    {
+        "id": 210,
+        "level": "A1",
+        "question": "I have a problem with my code.",
+        "options": [
+            "Let me see.",
+            "You are right.",
+            "It is fine.",
+            "I like it."
+        ],
+        "answer": 0,
+        "note": "'Let me see' (Để tôi xem thử) là cách phản hồi khi nghe về một lỗi kỹ thuật."
+    },
+    {
+        "id": 211,
+        "level": "A2",
+        "question": "I'm going to travel next month.",
+        "options": [
+            "That sounds fun!",
+            "Where are you?",
+            "Yes, I am.",
+            "I like travel."
+        ],
+        "answer": 0,
+        "note": "'That sounds fun' dùng để thể hiện sự hào hứng khi nghe kế hoạch của người khác."
+    },
+    {
+        "id": 212,
+        "level": "A2",
+        "question": "Have you finished the report?",
+        "options": [
+            "Not yet.",
+            "Yes, I do.",
+            "No, I am not.",
+            "I finished."
+        ],
+        "answer": 0,
+        "note": "'Not yet' (vẫn chưa) là cách trả lời phổ biến cho thì hiện tại hoàn thành."
+    },
+    {
+        "id": 213,
+        "level": "A2",
+        "question": "I don't understand this grammar.",
+        "options": [
+            "Can I help you?",
+            "Yes, I do.",
+            "I don't know.",
+            "It's hard."
+        ],
+        "answer": 0,
+        "note": "'Can I help you?' là câu đề nghị hỗ trợ lịch sự."
+    },
+    {
+        "id": 214,
+        "level": "A2",
+        "question": "It's raining outside!",
+        "options": [
+            "Don't forget your umbrella.",
+            "I like rain.",
+            "It is wet.",
+            "Yes, it is."
+        ],
+        "answer": 0,
+        "note": "'Don't forget' (đừng quên) là cấu trúc mệnh lệnh hữu ích."
+    },
+    {
+        "id": 215,
+        "level": "A2",
+        "question": "How was your weekend?",
+        "options": [
+            "It was very relaxing.",
+            "I like weekend.",
+            "Yes, it was.",
+            "I stay home."
+        ],
+        "answer": 0,
+        "note": "'Relaxing' (thư giãn) dùng để mô tả chất lượng của một khoảng thời gian."
+    },
+    {
+        "id": 216,
+        "level": "A2",
+        "question": "You look pale.",
+        "options": [
+            "I don't feel very well.",
+            "I am fine.",
+            "I am happy.",
+            "Yes, I look."
+        ],
+        "answer": 0,
+        "note": "'I don't feel very well' là cách nói tế nhị khi cơ thể không khỏe."
+    },
+    {
+        "id": 217,
+        "level": "A2",
+        "question": "Could you speak more slowly?",
+        "options": [
+            "Sure, no problem.",
+            "Yes, I can.",
+            "No, I don't.",
+            "I speak slow."
+        ],
+        "answer": 0,
+        "note": "'No problem' là cách đáp lại yêu cầu một cách thân thiện."
+    },
+    {
+        "id": 218,
+        "level": "A2",
+        "question": "I'm looking for the IT department.",
+        "options": [
+            "It's down the hall.",
+            "I am here.",
+            "It's an office.",
+            "I don't know."
+        ],
+        "answer": 0,
+        "note": "'Down the hall' (cuối hành lang) là cách chỉ đường trong tòa nhà."
+    },
+    {
+        "id": 219,
+        "level": "B1",
+        "question": "What are you interested in?",
+        "options": [
+            "I'm into Artificial Intelligence.",
+            "Yes, I am.",
+            "It is AI.",
+            "I like it."
+        ],
+        "answer": 0,
+        "note": "'Be into something' là cụm từ đồng nghĩa với 'be interested in' (đam mê/thích)."
+    },
+    {
+        "id": 220,
+        "level": "B1",
+        "question": "The meeting has been postponed.",
+        "options": [
+            "Oh, that's a pity.",
+            "Yes, it has.",
+            "I am sorry.",
+            "It is late."
+        ],
+        "answer": 0,
+        "note": "'That's a pity' (Thật đáng tiếc) dùng để phản hồi tin tức không như ý."
+    },
+    {
+        "id": 221,
+        "level": "B1",
+        "question": "I'm not sure if I can make it.",
+        "options": [
+            "That's alright.",
+            "Yes, you can.",
+            "I am sure.",
+            "It is fine."
+        ],
+        "answer": 0,
+        "note": "'Make it' trong ngữ cảnh này nghĩa là đến kịp một cuộc hẹn/sự kiện."
+    },
+    {
+        "id": 222,
+        "level": "B1",
+        "question": "Could you give me a hand?",
+        "options": [
+            "Sure, what do you need?",
+            "Yes, I can.",
+            "No, I won't.",
+            "I can hand."
+        ],
+        "answer": 0,
+        "note": "'Give me a hand' là thành ngữ nghĩa là 'giúp tôi một tay'."
+    },
+    {
+        "id": 223,
+        "level": "B1",
+        "question": "I've made a terrible mistake.",
+        "options": [
+            "Don't worry, it happens.",
+            "I am sorry.",
+            "It is okay.",
+            "Yes, you did."
+        ],
+        "answer": 0,
+        "note": "'It happens' (chuyện đó thường xảy ra mà/ai cũng có lúc sai) để an ủi ai đó."
+    },
+    {
+        "id": 224,
+        "level": "B1",
+        "question": "What do you suggest we do?",
+        "options": [
+            "How about watching a film?",
+            "I suggest.",
+            "We do it.",
+            "Let's go."
+        ],
+        "answer": 0,
+        "note": "'How about + V-ing' là cấu trúc gợi ý rất phổ biến."
+    },
+    {
+        "id": 225,
+        "level": "B1",
+        "question": "I'm so stressed out lately.",
+        "options": [
+            "You should take a break.",
+            "I am happy.",
+            "Don't stress.",
+            "It is hard."
+        ],
+        "answer": 0,
+        "note": "'Take a break' (nghỉ ngơi) là lời khuyên tốt cho người đang bị stress."
+    },
+    {
+        "id": 226,
+        "level": "B1",
+        "question": "I really appreciate your help.",
+        "options": [
+            "It was my pleasure.",
+            "Yes, you're welcome.",
+            "I help you.",
+            "No problem."
+        ],
+        "answer": 0,
+        "note": "'It was my pleasure' là cách đáp lại lời cảm ơn trang trọng và lịch sự."
+    },
+    {
+        "id": 227,
+        "level": "B1",
+        "question": "Do you happen to know where he is?",
+        "options": [
+            "I'm afraid I don't.",
+            "Yes, I do.",
+            "He is here.",
+            "I don't know."
+        ],
+        "answer": 0,
+        "note": "'I'm afraid' là cách nói lịch sự để từ chối hoặc trả lời phủ định."
+    },
+    {
+        "id": 228,
+        "level": "B1",
+        "question": "I'm having trouble with this software.",
+        "options": [
+            "Did you try restarting it?",
+            "Yes, I am.",
+            "It is hard.",
+            "I don't know."
+        ],
+        "answer": 0,
+        "note": "'Restarting' (khởi động lại) là giải pháp cơ bản cho mọi lỗi phần mềm."
+    },
+    {
+        "id": 229,
+        "level": "B1",
+        "question": "Could you please clarify that point?",
+        "options": [
+            "Certainly, I'll explain it again.",
+            "Yes, I will.",
+            "I explain.",
+            "No, I can't."
+        ],
+        "answer": 0,
+        "note": "'Clarify' (làm rõ) dùng khi muốn ai đó giải thích lại một ý chưa hiểu."
+    },
+    {
+        "id": 230,
+        "level": "B1",
+        "question": "I'm not convinced by his argument.",
+        "options": [
+            "I see your point, but...",
+            "Yes, he is.",
+            "I agree.",
+            "You are wrong."
+        ],
+        "answer": 0,
+        "note": "'I see your point' (Tôi hiểu ý bạn) là cách bắt đầu phản biện lịch sự."
+    },
+    {
+        "id": 231,
+        "level": "B2",
+        "question": "It's been a long day.",
+        "options": [
+            "You must be exhausted.",
+            "I am tired.",
+            "Yes, it is.",
+            "I am happy."
+        ],
+        "answer": 0,
+        "note": "'Exhausted' (kiệt sức) là từ mạnh hơn 'tired', dùng khi một ngày quá dài."
+    },
+    {
+        "id": 232,
+        "level": "B2",
+        "question": "The situation is getting out of hand.",
+        "options": [
+            "We need to act fast.",
+            "It is bad.",
+            "I agree.",
+            "Stay calm."
+        ],
+        "answer": 0,
+        "note": "'Out of hand' (mất kiểm soát) yêu cầu hành động ngay lập tức (act fast)."
+    },
+    {
+        "id": 233,
+        "level": "B2",
+        "question": "I'm really looking forward to the conference.",
+        "options": [
+            "I am too, it sounds great!",
+            "Yes, you are.",
+            "I look too.",
+            "It's good."
+        ],
+        "answer": 0,
+        "note": "'Looking forward to' diễn tả sự háo hức cho một sự kiện trong tương lai."
+    },
+    {
+        "id": 234,
+        "level": "B2",
+        "question": "Could you run this by me again?",
+        "options": [
+            "Sure, I'll go over it once more.",
+            "Yes, I can.",
+            "Run again.",
+            "No, I won't."
+        ],
+        "answer": 0,
+        "note": "'Run something by someone' (nhắc lại/thông báo lại) là một cụm từ rất thông dụng trong IT."
+    },
+    {
+        "id": 235,
+        "level": "B2",
+        "question": "There's no point in arguing.",
+        "options": [
+            "I agree, let's move on.",
+            "Yes, we do.",
+            "You are right.",
+            "Stop it."
+        ],
+        "answer": 0,
+        "note": "'There's no point in + V-ing' (không có ích gì khi làm gì)."
+    },
+    {
+        "id": 236,
+        "level": "B2",
+        "question": "The deadline is creeping up on us.",
+        "options": [
+            "We need to pick up the pace.",
+            "It is close.",
+            "Yes, it is.",
+            "Hurry up."
+        ],
+        "answer": 0,
+        "note": "'Pick up the pace' (tăng tốc độ) để đối phó với deadline (thời hạn)."
+    },
+    {
+        "id": 237,
+        "level": "B2",
+        "question": "I'm inclined to agree with your proposal.",
+        "options": [
+            "That's good to hear.",
+            "I agree.",
+            "Yes, it is.",
+            "You are right."
+        ],
+        "answer": 0,
+        "note": "'Inclined to agree' (nghiêng về việc đồng ý) là cách nói mang tính chuyên nghiệp."
+    },
+    {
+        "id": 238,
+        "level": "B2",
+        "question": "Everything is up in the air.",
+        "options": [
+            "We'll just have to wait and see.",
+            "It is floating.",
+            "Wait for it.",
+            "Yes, it is."
+        ],
+        "answer": 0,
+        "note": "'Up in the air' (mọi thứ chưa chắc chắn) thường dẫn đến việc phải chờ đợi."
+    },
+    {
+        "id": 239,
+        "level": "B2",
+        "question": "We need to iron out the details.",
+        "options": [
+            "I'll start drafting the plan.",
+            "It is flat.",
+            "Okay, iron.",
+            "Yes, details."
+        ],
+        "answer": 0,
+        "note": "'Iron out' (giải quyết các chi tiết nhỏ) là cụm từ thường dùng trong quản lý dự án."
+    },
+    {
+        "id": 240,
+        "level": "B2",
+        "question": "I'm at a loss for words.",
+        "options": [
+            "Take your time to think.",
+            "Speak up.",
+            "What is it?",
+            "Don't say."
+        ],
+        "answer": 0,
+        "note": "'At a loss for words' (không nói nên lời) do ngạc nhiên hoặc quá xúc động."
+    },
+    {
+        "id": 241,
+        "level": "B2",
+        "question": "I can't seem to get the hang of this.",
+        "options": [
+            "Don't worry, it takes practice.",
+            "Try again.",
+            "You can.",
+            "It is hard."
+        ],
+        "answer": 0,
+        "note": "'Get the hang of something' (bắt đầu quen/hiểu cách làm việc gì)."
+    },
+    {
+        "id": 242,
+        "level": "B2",
+        "question": "Let's call it a day.",
+        "options": [
+            "Agreed, I'm exhausted too.",
+            "Yes, call.",
+            "Day is done.",
+            "Good night."
+        ],
+        "answer": 0,
+        "note": "'Call it a day' (dừng công việc tại đây/hết ngày làm việc)."
+    },
+    {
+        "id": 243,
+        "level": "B2",
+        "question": "He keeps missing the point.",
+        "options": [
+            "Maybe we should explain it better.",
+            "He is dumb.",
+            "Yes, he does.",
+            "Explain it."
+        ],
+        "answer": 0,
+        "note": "'Missing the point' (không hiểu ý chính) là rào cản trong giao tiếp."
+    },
+    {
+        "id": 244,
+        "level": "B2",
+        "question": "It's all greek to me.",
+        "options": [
+            "Let me explain it in simple terms.",
+            "Learn Greek.",
+            "No, it's not.",
+            "Yes, I know."
+        ],
+        "answer": 0,
+        "note": "'It's all Greek to me' (Tôi chẳng hiểu gì cả - dùng cho ngôn ngữ/tài liệu khó)."
+    },
+    {
+        "id": 245,
+        "level": "B2",
+        "question": "Let's touch base next week.",
+        "options": [
+            "Sounds good, I'll email you.",
+            "Touch what?",
+            "Next week.",
+            "Email me."
+        ],
+        "answer": 0,
+        "note": "'Touch base' (liên lạc/trao đổi ngắn) là cụm từ rất phổ biến trong môi trường làm việc."
+    },
+    {
+        "id": 246,
+        "level": "B2",
+        "question": "The project is on the right track.",
+        "options": [
+            "Great, let's keep going.",
+            "Yes, track.",
+            "On track.",
+            "Good."
+        ],
+        "answer": 0,
+        "note": "'On the right track' (đi đúng hướng)."
+    },
+    {
+        "id": 247,
+        "level": "B2",
+        "question": "I need to pull myself together.",
+        "options": [
+            "Take a deep breath, you can do it.",
+            "Pull it.",
+            "Yes, you can.",
+            "Do it."
+        ],
+        "answer": 0,
+        "note": "'Pull oneself together' (trấn tĩnh lại)."
+    },
+    {
+        "id": 248,
+        "level": "B2",
+        "question": "We need to bridge the gap.",
+        "options": [
+            "What's the best approach?",
+            "Bridge it.",
+            "Gap is big.",
+            "Yes, need."
+        ],
+        "answer": 0,
+        "note": "'Bridge the gap' (thu hẹp khoảng cách/sự khác biệt)."
+    },
+    {
+        "id": 249,
+        "level": "B2",
+        "question": "I'm snowed under with work.",
+        "options": [
+            "Let me know if I can help.",
+            "Is it cold?",
+            "Snowing?",
+            "Work hard."
+        ],
+        "answer": 0,
+        "note": "'Snowed under' (ngập đầu trong công việc)."
+    },
+    {
+        "id": 250,
+        "level": "B2",
+        "question": "Everything went south.",
+        "options": [
+            "That's really unfortunate.",
+            "North?",
+            "Went wrong.",
+            "Yes, it did."
+        ],
+        "answer": 0,
+        "note": "'Go south' (mọi thứ trở nên tồi tệ/thất bại)."
+    },
+    {
+        "id": 251,
+        "level": "B2",
+        "question": "I have a gut feeling about this.",
+        "options": [
+            "Trust your intuition.",
+            "Gut?",
+            "Feeling?",
+            "Yes, trust."
+        ],
+        "answer": 0,
+        "note": "'Gut feeling' (linh cảm)."
+    },
+    {
+        "id": 252,
+        "level": "B2",
+        "question": "He's not pulling his weight.",
+        "options": [
+            "We should talk to him about it.",
+            "Too heavy?",
+            "No pull.",
+            "Yes, talk."
+        ],
+        "answer": 0,
+        "note": "'Pull one's weight' (làm tròn trách nhiệm)."
+    },
+    {
+        "id": 253,
+        "level": "B2",
+        "question": "I'm on the fence about this.",
+        "options": [
+            "Take some time to consider it.",
+            "Fence?",
+            "Not decided.",
+            "Yes, consider."
+        ],
+        "answer": 0,
+        "note": "'On the fence' (chưa quyết định được/đang phân vân)."
+    },
+    {
+        "id": 254,
+        "level": "B2",
+        "question": "The ball is in your court.",
+        "options": [
+            "I'll think about it and let you know.",
+            "My court?",
+            "Ball?",
+            "Yes, know."
+        ],
+        "answer": 0,
+        "note": "'Ball is in your court' (đến lượt bạn đưa ra quyết định)."
+    },
+    {
+        "id": 255,
+        "level": "B2",
+        "question": "That rings a bell.",
+        "options": [
+            "I thought you'd recognize it.",
+            "Bell rings?",
+            "No, not.",
+            "Yes, sound."
+        ],
+        "answer": 0,
+        "note": "'Ring a bell' (nghe quen quen)."
+    },
+    {
+        "id": 256,
+        "level": "B2",
+        "question": "Let's start from scratch.",
+        "options": [
+            "Okay, let's draft a new plan.",
+            "Scratch?",
+            "New plan.",
+            "Yes, start."
+        ],
+        "answer": 0,
+        "note": "'From scratch' (từ con số 0)."
+    },
+    {
+        "id": 257,
+        "level": "B2",
+        "question": "He's a tough cookie.",
+        "options": [
+            "He's very resilient.",
+            "Cookie?",
+            "Hard?",
+            "Yes, he is."
+        ],
+        "answer": 0,
+        "note": "'Tough cookie' (người mạnh mẽ, chịu khó)."
+    },
+    {
+        "id": 258,
+        "level": "B2",
+        "question": "Let's cut to the chase.",
+        "options": [
+            "What's the most important point?",
+            "Chase?",
+            "Cut?",
+            "Yes, important."
+        ],
+        "answer": 0,
+        "note": "'Cut to the chase' (đi thẳng vào vấn đề)."
+    },
+    {
+        "id": 259,
+        "level": "B2",
+        "question": "That's a bit of a stretch.",
+        "options": [
+            "You're right, let's be realistic.",
+            "Stretch?",
+            "Realistic.",
+            "Yes, bit."
+        ],
+        "answer": 0,
+        "note": "'A bit of a stretch' (hơi quá mức/không thực tế)."
+    },
+    {
+        "id": 260,
+        "level": "B2",
+        "question": "He's burning the candle at both ends.",
+        "options": [
+            "He needs to get some sleep.",
+            "Candle?",
+            "Sleep?",
+            "Yes, burn."
+        ],
+        "answer": 0,
+        "note": "'Burning the candle at both ends' (làm việc quá sức)."
+    },
+    {
+        "id": 261,
+        "level": "B2",
+        "question": "It's a win-win situation.",
+        "options": [
+            "Everyone benefits from this.",
+            "Win?",
+            "Yes, benefits.",
+            "Good."
+        ],
+        "answer": 0,
+        "note": "'Win-win' (cả hai bên cùng có lợi)."
+    },
+    {
+        "id": 262,
+        "level": "B2",
+        "question": "I'm just playing devil's advocate.",
+        "options": [
+            "It's good to consider all sides.",
+            "Devil?",
+            "Sides?",
+            "Yes, all."
+        ],
+        "answer": 0,
+        "note": "'Devil's advocate' (người phản biện để tìm ra sự thật)."
+    },
+    {
+        "id": 263,
+        "level": "B2",
+        "question": "He missed the boat on this.",
+        "options": [
+            "He was too slow to act.",
+            "Boat?",
+            "Too late.",
+            "Yes, act."
+        ],
+        "answer": 0,
+        "note": "'Miss the boat' (bỏ lỡ cơ hội)."
+    },
+    {
+        "id": 264,
+        "level": "B2",
+        "question": "Let's go back to the drawing board.",
+        "options": [
+            "Okay, let's redesign the concept.",
+            "Drawing?",
+            "Redesign?",
+            "Yes, back."
+        ],
+        "answer": 0,
+        "note": "'Back to the drawing board' (làm lại từ đầu)."
+    },
+    {
+        "id": 265,
+        "level": "B2",
+        "question": "The cat's out of the bag.",
+        "options": [
+            "Everyone knows the secret now.",
+            "Cat?",
+            "Secret?",
+            "Yes, know."
+        ],
+        "answer": 0,
+        "note": "'Cat's out of the bag' (bị lộ bí mật)."
+    },
+    {
+        "id": 266,
+        "level": "B2",
+        "question": "Hit the nail on the head.",
+        "options": [
+            "Exactly, that's the core issue.",
+            "Nail?",
+            "Core?",
+            "Yes, head."
+        ],
+        "answer": 0,
+        "note": "'Hit the nail on the head' (nói đúng trọng tâm)."
+    },
+    {
+        "id": 267,
+        "level": "B2",
+        "question": "Don't beat around the bush.",
+        "options": [
+            "Give me a straight answer.",
+            "Bush?",
+            "Straight?",
+            "Yes, bush."
+        ],
+        "answer": 0,
+        "note": "'Beat around the bush' (nói vòng vo)."
+    },
+    {
+        "id": 268,
+        "level": "B2",
+        "question": "I'm feeling under the weather.",
+        "options": [
+            "You should go home and rest.",
+            "Weather?",
+            "Rest?",
+            "Yes, feel."
+        ],
+        "answer": 0,
+        "note": "'Under the weather' (cảm thấy không khỏe)."
+    },
+    {
+        "id": 269,
+        "level": "B2",
+        "question": "He's a piece of cake.",
+        "options": [
+            "It's very easy to handle.",
+            "Cake?",
+            "Easy?",
+            "Yes, handle."
+        ],
+        "answer": 0,
+        "note": "'Piece of cake' (việc rất dễ dàng)."
+    },
+    {
+        "id": 270,
+        "level": "B2",
+        "question": "Break a leg!",
+        "options": [
+            "Good luck with your presentation!",
+            "Leg?",
+            "Presentation?",
+            "Yes, luck."
+        ],
+        "answer": 0,
+        "note": "'Break a leg' (chúc may mắn - dùng trong nghệ thuật/biểu diễn)."
+    },
+    {
+        "id": 271,
+        "level": "B2",
+        "question": "Cost an arm and a leg.",
+        "options": [
+            "It's too expensive.",
+            "Arm?",
+            "Expensive?",
+            "Yes, cost."
+        ],
+        "answer": 0,
+        "note": "'Cost an arm and a leg' (rất đắt đỏ)."
+    },
+    {
+        "id": 272,
+        "level": "B2",
+        "question": "Don't put all your eggs in one basket.",
+        "options": [
+            "Diversify your investment.",
+            "Eggs?",
+            "Diversify?",
+            "Yes, basket."
+        ],
+        "answer": 0,
+        "note": "'Put all eggs in one basket' (bỏ hết trứng vào một giỏ - mạo hiểm)."
+    },
+    {
+        "id": 273,
+        "level": "B2",
+        "question": "Spill the beans.",
+        "options": [
+            "Tell me the secret!",
+            "Beans?",
+            "Secret?",
+            "Yes, spill."
+        ],
+        "answer": 0,
+        "note": "'Spill the beans' (tiết lộ bí mật)."
+    },
+    {
+        "id": 274,
+        "level": "B2",
+        "question": "Under the weather.",
+        "options": [
+            "I'm feeling a bit sick.",
+            "Sick?",
+            "Weather?",
+            "Yes, feel."
+        ],
+        "answer": 0,
+        "note": "'Under the weather' (từ đồng nghĩa: thấy mệt trong người)."
+    },
+    {
+        "id": 275,
+        "level": "B2",
+        "question": "The last straw.",
+        "options": [
+            "This is the final annoyance.",
+            "Straw?",
+            "Final?",
+            "Yes, last."
+        ],
+        "answer": 0,
+        "note": "'The last straw' (giọt nước tràn ly)."
+    },
+    {
+        "id": 276,
+        "level": "B2",
+        "question": "Better late than never.",
+        "options": [
+            "It's good you finally arrived.",
+            "Late?",
+            "Finally?",
+            "Yes, better."
+        ],
+        "answer": 0,
+        "note": "'Better late than never' (muộn còn hơn không)."
+    },
+    {
+        "id": 277,
+        "level": "B2",
+        "question": "Break the ice.",
+        "options": [
+            "Let's start the conversation.",
+            "Ice?",
+            "Start?",
+            "Yes, break."
+        ],
+        "answer": 0,
+        "note": "'Break the ice' (phá vỡ sự ngại ngùng ban đầu)."
+    },
+    {
+        "id": 278,
+        "level": "B2",
+        "question": "Call it a day.",
+        "options": [
+            "Stop working and rest.",
+            "Stop?",
+            "Rest?",
+            "Yes, call."
+        ],
+        "answer": 0,
+        "note": "'Call it a day' (kết thúc công việc)."
+    },
+    {
+        "id": 279,
+        "level": "B2",
+        "question": "Piece of cake.",
+        "options": [
+            "It's extremely simple.",
+            "Easy?",
+            "Cake?",
+            "Yes, piece."
+        ],
+        "answer": 0,
+        "note": "'Piece of cake' (việc cực kỳ đơn giản)."
+    },
+    {
+        "id": 280,
+        "level": "B2",
+        "question": "Elephant in the room.",
+        "options": [
+            "We should address the obvious problem.",
+            "Elephant?",
+            "Problem?",
+            "Yes, room."
+        ],
+        "answer": 0,
+        "note": "'Elephant in the room' (vấn đề lớn mà ai cũng biết nhưng né tránh)."
+    },
+    {
+        "id": 281,
+        "level": "B2",
+        "question": "Burn the midnight oil.",
+        "options": [
+            "You're working very late.",
+            "Oil?",
+            "Late?",
+            "Yes, burn."
+        ],
+        "answer": 0,
+        "note": "'Burn the midnight oil' (làm việc khuya)."
+    },
+    {
+        "id": 282,
+        "level": "B2",
+        "question": "Hang in there!",
+        "options": [
+            "Don't give up yet!",
+            "Up?",
+            "Give?",
+            "Yes, hang."
+        ],
+        "answer": 0,
+        "note": "'Hang in there' (kiên trì, đừng bỏ cuộc)."
+    },
+    {
+        "id": 283,
+        "level": "B2",
+        "question": "Get out of hand.",
+        "options": [
+            "It's becoming uncontrollable.",
+            "Out?",
+            "Hard?",
+            "Yes, hand."
+        ],
+        "answer": 0,
+        "note": "'Get out of hand' (mất kiểm soát)."
+    },
+    {
+        "id": 284,
+        "level": "B2",
+        "question": "Easy does it.",
+        "options": [
+            "Slow down, be careful.",
+            "Slow?",
+            "Easy?",
+            "Yes, does."
+        ],
+        "answer": 0,
+        "note": "'Easy does it' (từ từ thôi/cẩn thận nhé)."
+    },
+    {
+        "id": 285,
+        "level": "B2",
+        "question": "Hit the sack.",
+        "options": [
+            "I'm going to sleep now.",
+            "Sack?",
+            "Sleep?",
+            "Yes, hit."
+        ],
+        "answer": 0,
+        "note": "'Hit the sack' (đi ngủ)."
+    },
+    {
+        "id": 286,
+        "level": "B2",
+        "question": "A blessing in disguise.",
+        "options": [
+            "It's a good thing, though it didn't look like it.",
+            "Good?",
+            "Disguise?",
+            "Yes, luck."
+        ],
+        "answer": 0,
+        "note": "'Blessing in disguise' (cái rủi lại hóa cái may)."
+    },
+    {
+        "id": 287,
+        "level": "B2",
+        "question": "Barking up the wrong tree.",
+        "options": [
+            "You're looking for the answer in the wrong place.",
+            "Tree?",
+            "Wrong?",
+            "Yes, bark."
+        ],
+        "answer": 0,
+        "note": "'Bark up the wrong tree' (đổ lỗi sai chỗ/hiểu lầm)."
+    },
+    {
+        "id": 288,
+        "level": "B2",
+        "question": "Through thick and thin.",
+        "options": [
+            "They have been together during good and bad times.",
+            "Thick?",
+            "Thin?",
+            "Yes, times."
+        ],
+        "answer": 0,
+        "note": "'Through thick and thin' (vượt qua mọi khó khăn)."
+    },
+    {
+        "id": 289,
+        "level": "B2",
+        "question": "The best of both worlds.",
+        "options": [
+            "You get all the advantages.",
+            "Best?",
+            "World?",
+            "Yes, both."
+        ],
+        "answer": 0,
+        "note": "'Best of both worlds' (cả hai lựa chọn đều tốt)."
+    },
+    {
+        "id": 290,
+        "level": "B2",
+        "question": "Time flies.",
+        "options": [
+            "It passes so quickly.",
+            "Time?",
+            "Quick?",
+            "Yes, flies."
+        ],
+        "answer": 0,
+        "note": "'Time flies' (thời gian trôi nhanh)."
+    },
+    {
+        "id": 291,
+        "level": "B2",
+        "question": "Get a taste of your own medicine.",
+        "options": [
+            "You are being treated the same way you treat others.",
+            "Taste?",
+            "Medicine?",
+            "Yes, own."
+        ],
+        "answer": 0,
+        "note": "'Taste of your own medicine' (gậy ông đập lưng ông)."
+    },
+    {
+        "id": 292,
+        "level": "B2",
+        "question": "Give someone the benefit of the doubt.",
+        "options": [
+            "Trust what they say for now.",
+            "Doubt?",
+            "Trust?",
+            "Yes, give."
+        ],
+        "answer": 0,
+        "note": "'Benefit of the doubt' (cho ai đó cơ hội tin tưởng)."
+    },
+    {
+        "id": 293,
+        "level": "B1",
+        "question": "AI stands for Artificial _____.",
+        "options": [
+            "Intelligence",
+            "Information",
+            "Integration",
+            "Internet"
+        ],
+        "answer": 0,
+        "note": "AI là viết tắt của Artificial Intelligence (Trí tuệ nhân tạo)."
+    },
+    {
+        "id": 294,
+        "level": "A1",
+        "question": "The 'U' in IUH stands for _____.",
+        "options": [
+            "University",
+            "Unit",
+            "Union",
+            "United"
+        ],
+        "answer": 0,
+        "note": "IUH là Industrial University of Ho Chi Minh City."
+    },
+    {
+        "id": 295,
+        "level": "A1",
+        "question": "Which language is used for C++?",
+        "options": [
+            "C++",
+            "Java",
+            "Python",
+            "HTML"
+        ],
+        "answer": 0,
+        "note": "Câu hỏi kiểm tra kiến thức cơ bản về ngôn ngữ lập trình."
+    },
+    {
+        "id": 296,
+        "level": "A1",
+        "question": "A _____ is a person who writes code.",
+        "options": [
+            "programmer",
+            "doctor",
+            "teacher",
+            "driver"
+        ],
+        "answer": 0,
+        "note": "Programmer là lập trình viên, người viết mã nguồn."
+    },
+    {
+        "id": 297,
+        "level": "B1",
+        "question": "RAM stands for Random _____ Memory.",
+        "options": [
+            "Access",
+            "Action",
+            "Active",
+            "Account"
+        ],
+        "answer": 0,
+        "note": "RAM là bộ nhớ truy xuất ngẫu nhiên (Random Access Memory)."
+    },
+    {
+        "id": 298,
+        "level": "A2",
+        "question": "Your project is named _____ AI.",
+        "options": [
+            "SilverShield",
+            "SentinelVoice",
+            "GoldShield",
+            "SafetyAI"
+        ],
+        "answer": 0,
+        "note": "Tên dự án của bạn đã được đổi thành SilverShield AI."
+    },
+    {
+        "id": 299,
+        "level": "B1",
+        "question": "Deepfake is a type of _____.",
+        "options": [
+            "fraud",
+            "game",
+            "sport",
+            "food"
+        ],
+        "answer": 0,
+        "note": "Deepfake thường được sử dụng trong các hành vi lừa đảo (fraud)."
+    },
+    {
+        "id": 300,
+        "level": "A1",
+        "question": "Teamwork is important in _____ assignments.",
+        "options": [
+            "group",
+            "solo",
+            "single",
+            "alone"
+        ],
+        "answer": 0,
+        "note": "Làm việc nhóm (Teamwork) rất quan trọng trong các bài tập nhóm (group assignments)."
+    }
+]

@@ -1,0 +1,300 @@
+What is your name?|My name is John.|My name is John.|I am fine.|Nice to meet you.|Goodbye.|A1|Câu hỏi tên dùng cấu trúc 'My name is + tên' để trả lời.
+How old are you?|I am 20 years old.|I am 20 years old.|I am a student.|I live here.|I am tall.|A1|Hỏi tuổi dùng cấu trúc 'How old + to-be + S?' và trả lời bằng 'S + to-be + số tuổi'.
+Where are you from?|I am from Vietnam.|I am from Vietnam.|I am fine.|I am happy.|I am a doctor.|A1|Cấu trúc 'be from + địa điểm' dùng để nói về quê quán, xuất xứ.
+What color is the sky?|It is blue.|It is blue.|It is green.|It is red.|It is yellow.|A1|Tính từ chỉ màu sắc (blue - xanh da trời) đứng sau động từ to-be 'is'.
+How many days are in a week?|Seven days.|Seven days.|Five days.|Six days.|Eight days.|A1|Kiến thức thực tế: Một tuần có 7 ngày (Seven days).
+Do you like apples?|Yes, I do.|Yes, I do.|Yes, I am.|No, I don't like.|Yes, I like.|A1|Câu hỏi Yes/No với trợ động từ 'Do', câu trả lời ngắn phải dùng lại 'do'.
+What time is it?|It is ten o'clock.|It is ten o'clock.|It is Monday.|It is sunny.|It is red.|A1|Dùng 'It is + thời gian' để trả lời cho câu hỏi giờ giấc.
+Where is the book?|It is on the table.|It is on the table.|It is happy.|It is blue.|It is mine.|A1|Giới từ 'on' chỉ vị trí phía trên bề mặt của một vật (cái bàn).
+Can you swim?|Yes, I can.|Yes, I can.|Yes, I do.|No, I'm not.|I can to swim.|A1|Câu hỏi với động từ khuyết thiếu 'Can', trả lời dùng lại 'can'.
+I _____ a teacher.|am|am|is|are|be|A1|Chủ ngữ là ngôi thứ nhất số ít 'I' luôn đi với 'am' ở hiện tại đơn.
+She _____ to school every day.|goes|goes|go|going|gone|A1|Thì hiện tại đơn, chủ ngữ 'She' (ngôi thứ 3 số ít) động từ phải thêm 'es'.
+They _____ football now.|are playing|are playing|play|plays|is playing|A1|Dấu hiệu 'now' dùng thì hiện tại tiếp diễn: S + be + V-ing.
+There _____ a cat on the sofa.|is|is|are|am|be|A1|Cấu trúc 'There is' dùng cho danh từ số ít (a cat).
+This is _____ apple.|an|an|a|the|some|A1|Dùng mạo từ 'an' trước danh từ bắt đầu bằng nguyên âm (u, e, o, a, i).
+These _____ my friends.|are|are|is|am|was|A1|'These' là đại từ chỉ định số nhiều, đi với động từ to-be 'are'.
+I have _____ sister.|a|a|an|the|any|A1|Mạo từ 'a' dùng cho danh từ đếm được số ít bắt đầu bằng phụ âm.
+He _____ like coffee.|doesn't|doesn't|don't|isn't|hasn't|A1|Phủ định thì hiện tại đơn, chủ ngữ 'He' dùng trợ động từ 'doesn't'.
+_____ you have a car?|Do|Do|Does|Are|Have|A1|Câu hỏi thì hiện tại đơn, chủ ngữ 'you' dùng trợ động từ 'Do'.
+We _____ happy today.|are|are|is|am|be|A1|Chủ ngữ số nhiều 'We' đi với động từ to-be 'are'.
+My father _____ in a bank.|works|works|work|working|is work|A1|Thì hiện tại đơn diễn tả nghề nghiệp, 'My father' là ngôi thứ 3 số ít nên thêm 's'.
+What _____ you doing yesterday at 5 PM?|were|were|was|are|did|A2|Thì quá khứ tiếp diễn diễn tả hành động đang xảy ra tại thời điểm cụ thể trong quá khứ.
+I _____ to Paris last summer.|went|went|go|have gone|was go|A2|Dấu hiệu 'last summer' dùng thì quá khứ đơn (V2 của go là went).
+Have you ever _____ sushi?|eaten|eaten|eat|ate|eating|A2|Thì hiện tại hoàn thành: Have + S + ever + V3/ed.
+This cake is _____ than the one I made.|better|better|good|best|more good|A2|So sánh hơn của tính từ đặc biệt 'good' là 'better'.
+He is the _____ student in the class.|tallest|tallest|taller|tall|most tall|A2|So sánh nhất với tính từ ngắn: the + adj-est.
+If it _____ tomorrow, I will stay at home.|rains|rains|rain|will rain|rained|A2|Câu điều kiện loại 1: If + HTĐ, S + will + V.
+You _____ wear a uniform at school.|must|must|can|might|may|A2|Động từ khuyết thiếu 'must' diễn tả sự bắt buộc hoặc quy định.
+I _____ my keys. Have you seen them?|have lost|have lost|lost|lose|am losing|A2|Dùng hiện tại hoàn thành cho hành động vừa xảy ra và để lại kết quả (mất chìa khóa).
+She _____ speak three languages fluently.|can|can|must|should|ought to|A2|'Can' diễn tả khả năng, năng lực của bản thân.
+There isn't _____ milk in the fridge.|any|any|some|a|many|A2|Dùng 'any' trong câu phủ định và câu nghi vấn với danh từ không đếm được.
+How _____ money do you need?|much|much|many|few|little|A2|'Money' là danh từ không đếm được nên dùng 'How much'.
+I'm going _____ a new laptop next week.|to buy|to buy|buying|buy|bought|A2|Cấu trúc tương lai gần: be going to + V.
+The film was very _____.|interesting|interesting|interested|interest|interests|A2|Tính từ đuôi '-ing' dùng để mô tả tính chất của vật/sự việc (bộ phim).
+He _____ dinner when the phone rang.|was cooking|was cooking|cooked|is cooking|cooks|A2|Quá khứ tiếp diễn kết hợp quá khứ đơn (hành động đang xảy ra thì hành động khác xen vào).
+I think it _____ rain tomorrow.|will|will|is going to|shall|must|A2|Dùng 'will' cho dự đoán mang tính cá nhân, không có căn cứ chắc chắn.
+Who _____ that window?|broke|broke|break|broken|is break|A2|Câu hỏi chủ ngữ trong quá khứ đơn (V2 của break là broke).
+She is _____ than her sister.|prettier|prettier|pretty|more pretty|prettiest|A2|So sánh hơn với tính từ ngắn kết thúc bằng 'y', đổi thành 'ier'.
+We _____ to the beach every summer.|go|go|went|are going|have gone|A2|Dấu hiệu 'every summer' diễn tả thói quen, dùng thì hiện tại đơn.
+I have _____ been to Japan.|never|never|ever|yet|already|A2|'Never' dùng trong câu khẳng định nhưng mang nghĩa phủ định (chưa bao giờ).
+Are you _____ in history?|interested|interested|interesting|interest|interests|A2|Tính từ đuôi '-ed' diễn tả cảm xúc của con người đối với một sự việc.
+If I _____ you, I would tell the truth.|were|were|was|am|had been|B1|Câu điều kiện loại 2: Giả định trái với hiện tại, to-be dùng 'were' cho mọi ngôi.
+I've been working here _____ five years.|for|for|since|during|until|B1|Dùng 'for' cộng với một khoảng thời gian (5 năm) trong thì HT hoàn thành.
+The letter _____ yesterday.|was sent|was sent|sent|is sent|was send|B1|Câu bị động thì quá khứ đơn: was/were + V3/ed.
+He asked me where I _____.|lived|lived|live|am living|was live|B1|Câu tường thuật (Reported speech): Phải lùi thì từ hiện tại đơn về quá khứ đơn.
+I _____ my homework yet.|haven't finished|haven't finished|didn't finish|don't finish|finish|B1|Dấu hiệu 'yet' dùng trong câu phủ định của thì hiện tại hoàn thành.
+She is the woman _____ lives next door.|who|who|which|whom|whose|B1|Đại từ quan hệ 'who' thay thế cho danh từ chỉ người đóng vai trò chủ ngữ.
+I enjoy _____ in my free time.|reading|reading|to read|read|reads|B1|Sau động từ 'enjoy' luôn đi với V-ing.
+You _____ study harder if you want to pass.|should|should|mustn't|can|may|B1|'Should' dùng để đưa ra lời khuyên.
+I used _____ to that park when I was a child.|to go|to go|going|go|went|B1|Cấu trúc 'Used to + V' diễn tả thói quen trong quá khứ đã chấm dứt.
+Although it was raining, we _____ out.|went|went|go|have gone|were going|B1|'Although' dùng để nối hai mệnh đề mang nghĩa tương phản.
+He's the man _____ car was stolen.|whose|whose|who|whom|which|B1|Đại từ quan hệ 'whose' thay thế cho tính từ sở hữu (xe của ông ấy).
+I don't know _____ to solve this problem.|how|how|what|why|where|B1|Cấu trúc: Từ để hỏi (how/what...) + to V.
+The coffee is _____ hot to drink.|too|too|enough|so|such|B1|Cấu trúc 'too + adj + to V' (quá... đến nỗi không thể...).
+He is _____ intelligent than his brother.|more|more|most|as|very|B1|So sánh hơn với tính từ dài: more + adj + than.
+I wish I _____ a bigger house.|had|had|have|have had|am having|B1|Câu ước cho hiện tại dùng thì quá khứ đơn (V2 của have là had).
+We _____ to finish the project by Friday.|have|have|must|should|can|B1|Cấu trúc 'have to + V' chỉ sự bắt buộc khách quan.
+She _____ me that she was tired.|told|told|said|spoke|talked|B1|Dùng 'told' khi có tân ngữ chỉ người (me), 'said' không có tân ngữ trực tiếp.
+He suggested _____ to the museum.|going|going|to go|go|goes|B1|Sau động từ 'suggest' dùng V-ing.
+It was _____ a beautiful day that we went for a picnic.|such|such|so|too|very|B1|Cấu trúc: such + (a/an) + adj + N + that...
+I am looking forward _____ you.|to meeting|to meeting|to meet|meet|meeting|B1|Cấu trúc đặc biệt: Look forward to + V-ing.
+Unless you _____ now, you will be late.|leave|leave|don't leave|will leave|left|B1|'Unless' = If not. Trong mệnh đề Unless không dùng phủ định.
+The car _____ in Japan.|was made|was made|made|is make|makes|B1|Câu bị động: Chiếc xe được sản xuất (không tự sản xuất).
+I haven't seen him _____ last week.|since|since|for|from|until|B1|'Since' + mốc thời gian (tuần trước) dùng trong thì HT hoàn thành.
+He's good _____ playing the guitar.|at|at|in|on|with|B1|Cấu trúc: Be good at + V-ing/N (giỏi về cái gì).
+I managed _____ the race.|to win|to win|winning|win|won|B1|Cấu trúc: Manage + to V (xoay sở/thành công làm gì).
+She denied _____ the money.|stealing|stealing|to steal|steal|stolen|B1|Sau động từ 'deny' (phủ nhận) dùng V-ing.
+I'll call you as soon as I _____.|arrive|arrive|will arrive|arrived|arriving|B1|Mệnh đề trạng ngữ chỉ thời gian (as soon as) dùng hiện tại đơn cho tương lai.
+He prefers tea _____ coffee.|to|to|than|more|over|B1|Cấu trúc: Prefer sth to sth (Thích cái gì hơn cái gì).
+The room was filled _____ smoke.|with|with|of|by|in|B1|Cấu trúc cố định: Be filled with (đầy rẫy cái gì).
+I didn't _____ to like broccoli, but I do now.|use|use|used|using|uses|B1|Câu phủ định của used to: didn't use to (bỏ 'd').
+Hardly _____ the house when it started to rain.|had I left|had I left|I had left|did I leave|I left|B2|Đảo ngữ: Hardly + had + S + V3/ed + when + S + V2/ed.
+Only after the meeting _____ the truth.|did he realize|did he realize|he realized|he has realized|he had realized|B2|Đảo ngữ với Only after + N/clause: Trợ động từ + S + V.
+I'd rather you _____ me earlier.|had told|had told|told|tell|have told|B2|Would rather + S + V (giả thiết trái ngược quá khứ dùng quá khứ hoàn thành).
+It's high time we _____ home.|went|went|go|to go|should go|B2|Cấu trúc: It's high time + S + V2/ed (Đã đến lúc phải làm gì).
+By next year, I _____ here for ten years.|will have worked|will have worked|will work|will be working|work|B2|Thì tương lai hoàn thành diễn tả hành động hoàn tất trước một thời điểm ở tương lai.
+Were I _____ you, I would take the job.|to be|to be|be|being|been|B2|Đảo ngữ câu điều kiện loại 2: Were + S + (to V)...
+Not only _____ beautiful but she is also kind.|is she|is she|she is|she was|is her|B2|Đảo ngữ Not only: Not only + trợ động từ/be + S +...
+No sooner _____ home than the phone rang.|had I reached|had I reached|I had reached|did I reach|I reached|B2|Cấu trúc đảo ngữ: No sooner + had + S + V3/ed + than...
+I regret _____ you that the flight is delayed.|to inform|to inform|informing|inform|informed|B2|Regret + to V: Lấy làm tiếc khi phải thông báo (tin xấu).
+I _____ my car repaired yesterday.|had|had|have|was having|gotten|B2|Cấu trúc nhờ vả (Causative): Have sth + V3/ed.
+Supposing you _____ the lottery, what would you do?|won|won|win|had won|will win|B2|'Supposing' dùng như 'If' trong câu điều kiện loại 2 (giả định).
+She was accused _____ cheating in the exam.|of|of|for|with|about|B2|Cấu trúc: Accuse someone of doing something (buộc tội ai làm gì).
+He succeeded _____ solving the complex puzzle.|in|in|at|on|with|B2|Cấu trúc: Succeed in + V-ing.
+Such was _____ that he couldn't speak.|his anger|his anger|he was angry|angrily|angry|B2|Đảo ngữ với Such: Such + be + cụm danh từ + that...
+I'd prefer _____ at home tonight.|to stay|to stay|staying|stay|stayed|B2|Would prefer + to V: Thích làm gì hơn ở một thời điểm cụ thể.
+He acts as if he _____ the boss.|were|were|was|is|be|B2|Cấu trúc 'As if/As though' dùng 'were' cho giả định trái thực tế.
+The older I get, _____ I become.|the wiser|the wiser|wiser|more wise|the wisest|B2|So sánh kép: The + so sánh hơn, the + so sánh hơn.
+Seldom _____ such a beautiful sunset.|have I seen|have I seen|I have seen|I saw|did I see|B2|Đảo ngữ với trạng từ phủ định 'Seldom'.
+In spite of _____ ill, she went to work.|being|being|she was|be|is|B2|In spite of + V-ing/N.
+I'd rather _____ than go out tonight.|stay in|stay in|staying in|to stay in|stayed in|B2|Would rather + V (nguyên thể) khi cùng chủ ngữ.
+Should you _____ any help, just ask.|need|need|needed|to need|needs|B2|Đảo ngữ câu điều kiện loại 1: Should + S + V (nguyên thể).
+He ________ to have committed the crime.|is alleged|is alleged|alleges|alleged|is alleging|B2|Cấu trúc bị động khách quan: S + be alleged + to have V3/ed.
+Little ________ how much trouble he was in.|did he know|did he know|he knew|he has known|he knows|B2|Đảo ngữ với 'Little': Phủ định hoàn toàn sự hiểu biết.
+The building ________ by the time you return.|will have been completed|will have been completed|will be completed|is completed|completes|B2|Bị động tương lai hoàn thành: S + will have been + V3/ed.
+Had I known, I ________ differently.|would have acted|would have acted|will act|acted|would act|B2|Đảo ngữ câu điều kiện loại 3: Had + S + V3/ed, S + would have + V3/ed.
+You ________ me you were coming; I'd have met you.|should have told|should have told|must have told|could tell|should tell|B2|Should have + V3/ed: Lẽ ra nên làm gì trong quá khứ (nhưng đã không làm).
+Under no circumstances ________ the door.|should you open|should you open|you should open|you must open|open you|B2|Đảo ngữ với cụm từ phủ định 'Under no circumstances'.
+I don't object ________ the meeting.|to postponing|to postponing|to postpone|postponing|postpone|B2|Cấu trúc: Object to + V-ing (phản đối việc gì).
+It is essential that he ________ here on time.|be|be|is|was|will be|B2|Câu giả định (Subjunctive): It is essential that + S + V (nguyên thể không chia).
+Provided that you ________ hard, you will pass.|study|study|will study|studied|studying|B2|Provided that = If. Dùng hiện tại đơn trong mệnh đề điều kiện.
+What is your phone number?|It is 0123456789.|It is 0123456789.|I am 18.|I live in Hanoi.|My name is An.|A1|Dùng 'It is + số điện thoại' để trả lời câu hỏi về mã số, số điện thoại.
+How do you spell your name?|A-N-N-A.|A-N-N-A.|I am Anna.|It is a name.|Yes, I do.|A1|'Spell' nghĩa là đánh vần. Trả lời bằng cách đọc từng chữ cái trong tên.
+Is this your pen?|Yes, it is mine.|Yes, it is mine.|Yes, I am.|No, I don't.|It is blue.|A1|Sử dụng đại từ sở hữu 'mine' (của tôi) để tránh lặp lại từ 'pen'.
+Where are the keys?|They are in the bag.|They are in the bag.|It is in the bag.|They are happy.|They are red.|A1|'Keys' là số nhiều nên dùng đại từ 'They' và động từ 'are'.
+What do you do?|I am a student.|I am a student.|I am doing well.|I am 20.|I live here.|A1|'What do you do?' là câu hỏi về nghề nghiệp, không phải hỏi đang làm gì.
+How many people are there in your family?|There are four.|There are four.|They are fine.|It is four.|I have four.|A1|Cấu trúc 'There are + số lượng' dùng để trả lời cho câu hỏi 'How many'.
+What is the weather like?|It is sunny.|It is sunny.|I like sun.|It is Monday.|It is big.|A1|'What is the weather like?' dùng để hỏi về tình hình thời tiết.
+I _____ breakfast at 7 AM every day.|have|have|has|having|had|A1|Thì hiện tại đơn với chủ ngữ 'I', động từ 'have' giữ nguyên mẫu.
+She _____ like spicy food.|doesn't|doesn't|don't|isn't|hasn't|A1|Trợ động từ phủ định 'doesn't' dùng cho ngôi thứ 3 số ít (She/He/It).
+_____ you speak English?|Do|Do|Does|Are|Is|A1|Dùng trợ động từ 'Do' cho câu hỏi nghi vấn của động từ thường với chủ ngữ 'you'.
+These books _____ very interesting.|are|are|is|am|be|A1|'These books' là danh từ số nhiều, đi với động từ to-be 'are'.
+My brother _____ to music now.|is listening|is listening|listens|listen|are listening|A1|Dấu hiệu 'now' (bây giờ) yêu cầu chia thì hiện tại tiếp diễn (be + V-ing).
+I have two _____ .|children|children|childs|childes|child|A1|'Children' là dạng số nhiều đặc biệt (irregular) của 'child'.
+Whose bag is this?|It is Mary's.|It is Mary's.|It is Mary.|It is of Mary.|It is to Mary.|A1|Dùng sở hữu cách ('s) sau tên riêng để chỉ quyền sở hữu.
+_____ do you go to the gym?|How often|How often|How many|How much|How long|A1|'How often' dùng để hỏi về tần suất (bao lâu một lần).
+I can't see _____. It's too dark.|anything|anything|something|nothing|everything|A1|Dùng 'anything' trong câu phủ định (can't) để chỉ 'bất cứ cái gì'.
+There isn't _____ orange juice left.|any|any|some|a|an|A1|'Any' dùng với danh từ không đếm được trong câu phủ định.
+We _____ a movie last night.|watched|watched|watch|watches|watching|A1|Dấu hiệu 'last night' yêu cầu chia thì quá khứ đơn (V-ed).
+Please _____ the window.|open|open|opening|to open|opened|A1|Câu mệnh lệnh bắt đầu bằng động từ nguyên mẫu (V-bare).
+This is my _____ car.|parents'|parents'|parent's|parents|parent|A1|Sở hữu cách của danh từ số nhiều có tận cùng là 's' chỉ cần thêm dấu phẩy (').
+I _____ a great movie yesterday.|saw|saw|see|have seen|was see|A2|Dấu hiệu 'yesterday' chia quá khứ đơn. 'Saw' là cột 2 của 'see'.
+She is _____ than her brother.|older|older|old|oldest|more old|A2|So sánh hơn của tính từ ngắn (old): adj + er + than.
+Have you _____ your room yet?|cleaned|cleaned|clean|cleans|cleaning|A2|Thì hiện tại hoàn thành: Have + V3/ed. 'Yet' dùng trong câu hỏi.
+You _____ smoke here. It's forbidden.|mustn't|mustn't|don't have to|shouldn't|can't|A2|'Mustn't' dùng để chỉ sự cấm đoán (không được phép).
+If I have time, I _____ you.|will call|will call|call|called|would call|A2|Câu điều kiện loại 1 (có thể xảy ra): If + Hiện tại đơn, S + will + V.
+I _____ to London three times.|have been|have been|was|go|went|A2|Diễn tả trải nghiệm đã từng làm gì đó đến nay, dùng hiện tại hoàn thành.
+What _____ you doing when I called?|were|were|was|are|did|A2|Thì quá khứ tiếp diễn: Một hành động đang xảy ra (were doing) thì hành động khác xen vào (called).
+This is the _____ book I've ever read.|best|best|good|better|most good|A2|So sánh nhất của tính từ đặc biệt 'good' là 'the best'.
+I'm _____ than my friend.|taller|taller|tall|tallest|more tall|A2|So sánh hơn với tính từ ngắn (tall) thêm đuôi '-er'.
+He _____ play the piano when he was five.|could|could|can|should|must|A2|'Could' là quá khứ của 'can', diễn tả khả năng trong quá khứ.
+There are _____ students in the classroom.|some|some|any|a|much|A2|'Some' dùng trong câu khẳng định với danh từ số nhiều.
+I _____ my homework at the moment.|am doing|am doing|do|does|did|A2|'At the moment' là dấu hiệu của thì hiện tại tiếp diễn.
+She _____ to the gym every morning.|goes|goes|go|going|gone|A2|Thói quen ở hiện tại, chủ ngữ 'She' động từ thêm 'es'.
+We _____ to the party next Saturday.|are going|are going|go|went|have gone|A2|Thì hiện tại tiếp diễn dùng để chỉ một kế hoạch chắc chắn trong tương lai gần.
+I _____ a new car last week.|bought|bought|buy|buys|buying|A2|Thì quá khứ đơn, 'bought' là dạng quá khứ của 'buy'.
+He _____ lunch when I arrived.|was having|was having|had|has|is having|A2|Hành động đang diễn ra trong quá khứ (was having) thì có hành động khác ngắt quãng.
+This is the _____ house in the street.|biggest|biggest|bigger|big|most big|A2|So sánh nhất tính từ ngắn 1 âm tiết kết thúc CVC: gấp đôi phụ âm cuối + est.
+I've _____ finished my work.|already|already|yet|ever|never|A2|'Already' dùng trong câu khẳng định của thì hiện tại hoàn thành, nghĩa là 'đã rồi'.
+Would you like _____ coffee?|some|some|any|a|an|A2|Trong lời mời lịch sự, dùng 'some' thay vì 'any' dù là câu hỏi.
+She is _____ at English than me.|better|better|good|best|more good|A2|So sánh hơn của 'good' là 'better'.
+I wish I _____ more money.|had|had|have|have had|am having|B1|Câu ước cho hiện tại (Wish + quá khứ đơn) diễn tả điều không có thật lúc này.
+If I _____ you, I wouldn't do that.|were|were|was|am|had been|B1|Câu điều kiện loại 2, động từ to-be 'were' dùng cho tất cả các ngôi chủ ngữ.
+The bridge _____ in 1990.|was built|was built|built|is built|was build|B1|Câu bị động quá khứ đơn: was/were + V3/ed.
+I've been studying English _____ three years.|for|for|since|during|until|B1|'For' + khoảng thời gian (3 năm) dùng trong thì hoàn thành.
+He asked me _____ I liked the film.|if|if|that|what|which|B1|Câu tường thuật dạng câu hỏi Yes/No: dùng 'if' hoặc 'whether' để nối.
+I _____ my teeth when the phone rang.|was brushing|was brushing|brushed|brush|brushes|B1|Hành động đang xảy ra (was brushing) bị hành động khác cắt ngang (rang).
+She is the woman _____ daughter is a doctor.|whose|whose|who|whom|which|B1|Đại từ quan hệ 'whose' chỉ sự sở hữu (con gái của bà ấy).
+I'm looking forward _____ you again.|to seeing|to seeing|to meet|see|seeing|B1|Cụm từ cố định: Look forward to + V-ing (mong đợi điều gì).
+You _____ better see a doctor.|had|had|would|should|could|B1|Cấu trúc 'Had better + V' mang nghĩa nên làm gì (lời khuyên mạnh mẽ).
+Although it was cold, he _____ wear a coat.|didn't|didn't|doesn't|wasn't|isn't|B1|Dùng trợ động từ phủ định 'didn't' vì câu đang kể về sự việc trong quá khứ.
+He's the man _____ I met at the party.|whom|whom|who|which|whose|B1|'Whom' làm tân ngữ thay thế cho người (tôi đã gặp ông ấy).
+I don't know _____ to do.|what|what|how|why|where|B1|Cấu trúc: Từ để hỏi + to V. 'What to do' nghĩa là làm cái gì.
+The water is _____ cold to swim in.|too|too|enough|so|such|B1|Cấu trúc: 'too + adj + to V' (quá... đến nỗi không thể...).
+He is _____ intelligent than his sister.|more|more|most|as|very|B1|So sánh hơn với tính từ dài: more + adj + than.
+I wish I _____ to the party last night.|had gone|had gone|went|go|have gone|B1|Câu ước cho quá khứ (trái với sự thật đã xảy ra): Wish + quá khứ hoàn thành.
+We _____ to wear a uniform at work.|have|have|must|should|can|B1|'Have to' diễn tả sự bắt buộc do ngoại cảnh hoặc quy định đề ra.
+She _____ that she was happy.|said|said|told|spoke|talked|B1|Dùng 'said' khi không có tân ngữ chỉ người phía sau (said that...).
+He suggested _____ to the cinema.|going|going|to go|go|goes|B1|Sau động từ 'suggest' (gợi ý), động từ theo sau chia V-ing.
+It was _____ a nice day that we went out.|such|such|so|too|very|B1|Cấu trúc: such + a/an + adj + N + that.
+I am interested _____ learning more.|in|in|at|on|with|B1|Cấu trúc cố định: Be interested in + V-ing (quan tâm, hứng thú về...).
+Unless you _____ now, you'll be late.|leave|leave|don't leave|will leave|left|B1|'Unless' mang nghĩa 'nếu không'. Trong mệnh đề 'unless' dùng thể khẳng định.
+The car _____ in Germany.|was made|was made|made|is make|makes|B1|Câu bị động: was/were + V3/ed (được làm tại...).
+I haven't seen her _____ Monday.|since|since|for|from|until|B1|'Since' + mốc thời gian (thứ Hai) dùng trong thì hoàn thành.
+He's good _____ mathematics.|at|at|in|on|with|B1|Cấu trúc cố định: Be good at something (giỏi môn gì/việc gì).
+I managed _____ the project on time.|to finish|to finish|finishing|finish|finished|B1|Cấu trúc: Manage + to V (xoay sở thành công làm gì đó).
+She denied _____ the car.|stealing|stealing|to steal|steal|stolen|B1|Sau động từ 'deny' (phủ nhận), động từ theo sau chia V-ing.
+I'll let you know as soon as I _____.|hear|hear|will hear|heard|hearing|B1|Mệnh đề trạng ngữ chỉ thời gian dùng thì hiện tại đơn để nói về tương lai.
+He prefers swimming _____ running.|to|to|than|more|over|B1|Cấu trúc: Prefer V-ing to V-ing (thích làm gì hơn làm gì).
+The glass was broken _____ my brother.|by|by|with|of|from|B1|Dùng 'by' để chỉ tác nhân thực hiện hành động trong câu bị động.
+I didn't _____ to like vegetables.|use|use|used|using|uses|B1|Câu phủ định của used to: S + didn't + use (không có d) + to V.
+Hardly _____ the game started when it rained.|had|had|did|was|has|B2|Đảo ngữ với Hardly: Hardly + had + S + V3/ed + when...
+No sooner _____ we sat down than the bell rang.|had|had|did|was|has|B2|Đảo ngữ với No sooner: No sooner + had + S + V3/ed + than...
+Only when I arrived _____ I realized my mistake.|did|did|was|had|have|B2|Đảo ngữ với Only when: Mệnh đề đầu giữ nguyên, đảo ngữ ở mệnh đề sau.
+I'd rather you _____ stay here tonight.|didn't|didn't|don't|not|won't|B2|Would rather (someone) + V2/ed: Muốn ai đó làm/không làm gì ở hiện tại.
+It's time we _____ leaving.|were|were|are|be|was|B2|Cấu trúc: It's time + S + V2/ed (Đã đến lúc chúng ta phải...).
+By this time next year, I _____ my degree.|will have finished|will have finished|will finish|finish|finished|B2|Tương lai hoàn thành: Hành động sẽ hoàn thành trước mốc thời gian trong tương lai.
+Had I known, I _____ you.|would have helped|would have helped|will help|helped|would help|B2|Đảo ngữ điều kiện loại 3: Had + S + V3, S + would have + V3.
+Not only _____ he late, but he also forgot his books.|was|was|is|did|has|B2|Đảo ngữ với 'Not only': Not only + trợ động từ/be + S...
+Scarcely _____ I entered the room when the lights went out.|had|had|did|was|has|B2|Đảo ngữ Scarcely: Scarcely + had + S + V3 + when...
+I regret _____ you that you failed.|to inform|to inform|informing|inform|informed|B2|Regret + to V: Lấy làm tiếc khi phải báo tin xấu.
+I _____ my hair cut yesterday.|had|had|have|was having|got|B2|Cấu trúc nhờ vả (Causative): Have someone do sth -> Have sth done (V3).
+Supposing you _____ lost, what would you do?|got|got|get|had got|will get|B2|'Supposing' giả định tình huống không có thật ở hiện tại (tương tự If loại 2).
+She was accused _____ lying.|of|of|for|with|about|B2|Cấu trúc cố định: Accuse someone of doing something (buộc tội ai làm gì).
+He succeeded _____ winning the race.|in|in|at|on|with|B2|Cấu trúc cố định: Succeed in doing something (thành công trong việc gì).
+Such was _____ that she started crying.|her sadness|her sadness|she was sad|sadly|sad|B2|Đảo ngữ với Such: Such + be + N + that...
+I'd prefer _____ at home today.|to stay|to stay|staying|stay|stayed|B2|Would prefer + to V: Thích làm gì hơn tại một thời điểm cụ thể.
+He behaves as though he _____ the owner.|were|were|was|is|be|B2|Giả định không thực với 'as though': dùng 'were' cho mọi ngôi.
+The older he gets, _____ he becomes.|the wiser|the wiser|wiser|more wise|the wisest|B2|So sánh kép: The + so sánh hơn, the + so sánh hơn.
+Rarely _____ such a beautiful view.|have I seen|have I seen|I have seen|I saw|did I see|B2|Đảo ngữ với trạng từ phủ định 'Rarely' đứng đầu câu.
+In spite of _____ tired, he finished the work.|being|being|he was|be|is|B2|Sau 'In spite of' phải là một danh từ hoặc V-ing.
+I'd rather _____ at home than go to the party.|stay|stay|staying|to stay|stayed|B2|Would rather + V1 + than + V1 (Thích làm gì hơn làm gì).
+Should you _____ any questions, please ask.|have|have|had|to have|has|B2|Đảo ngữ điều kiện loại 1: Should + S + V nguyên thể.
+He is alleged _____ stolen the money.|to have|to have|having|has|to had|B2|Bị động khách quan: S + be alleged + to have V3 (được cho là đã làm gì).
+Little _____ he know about her secret.|did|did|do|was|had|B2|Đảo ngữ với 'Little' mang nghĩa phủ định: 'Anh ta gần như không biết gì'.
+The house _____ by the time they arrive.|will have been sold|will have been sold|will be sold|is sold|sells|B2|Bị động tương lai hoàn thành: will have been + V3.
+Had you asked, I _____ you.|would have told|would have told|will tell|told|would tell|B2|Đảo ngữ điều kiện loại 3: Had + S + V3, S + would have + V3.
+You _____ told me you were ill.|should have|should have|must have|could have|should|B2|Should have + V3: Lẽ ra nên làm gì trong quá khứ (nhưng thực tế đã không làm).
+Under no circumstances _____ you tell him.|should|should|you should|must|do you|B2|Đảo ngữ với cụm phủ định đứng đầu: Cụm từ phủ định + trợ động từ + S + V.
+I object _____ to that music.|to listening|to listening|to listen|listening|listen|B2|Cấu trúc cố định: Object to + V-ing (phản đối việc gì).
+It is vital that she _____ informed.|be|be|is|was|will be|B2|Câu giả định (Subjunctive mood) sau 'vital': S + V nguyên thể (không chia).
+What do you think about AI?|It is very useful.|It is very useful.|It is a person.|I like it.|It is red.|A1|Dùng 'It is + adj' để đưa ra đánh giá về một chủ đề/sự vật.
+I study at IUH.|That's great!|That's great!|No, I don't.|I am a student.|I like IUH.|A1|Khi ai đó chia sẻ thông tin, hãy đáp lại bằng một lời tán đồng/khen ngợi.
+Can you help me?|Yes, of course.|Yes, of course.|Yes, I can.|No, I do.|I can help.|A1|'Of course' là cách đáp lại lịch sự và phổ biến cho yêu cầu giúp đỡ.
+What's your favorite subject?|I like Computer Science.|I like Computer Science.|I am a student.|It is big.|I like it.|A1|Trả lời bằng tên môn học (Computer Science - Khoa học máy tính).
+Do you live near the campus?|Yes, just 5 minutes away.|Yes, just 5 minutes away.|Yes, I do.|No, I am not.|I live here.|A1|Dùng 'just + thời gian + away' để nói về khoảng cách địa lý.
+I am very tired.|You should rest.|You should rest.|I am happy.|That's fine.|You are tired.|A1|Khi người khác nói về tình trạng mệt mỏi, 'You should rest' là lời khuyên hợp lý.
+What time does the class start?|It starts at 8 AM.|It starts at 8 AM.|It is 8 AM.|At 8 AM.|I start at 8.|A1|Thì hiện tại đơn dùng cho thời gian biểu cố định (Starts at...).
+Where is the library?|It's on the 4th floor.|It's on the 4th floor.|It's big.|It's a library.|It's here.|A1|'On the + số thứ tự + floor' là cách chỉ vị trí tầng trong tòa nhà.
+Are you busy now?|No, I'm free.|No, I'm free.|Yes, I do.|I am busy.|No, I am.|A1|'Free' trái nghĩa với 'busy' (bận), dùng để trả lời câu hỏi hiện trạng.
+I have a problem with my code.|Let me see.|Let me see.|You are right.|It is fine.|I like it.|A1|'Let me see' (Để tôi xem thử) là cách phản hồi khi nghe về một lỗi kỹ thuật.
+I'm going to travel next month.|That sounds fun!|That sounds fun!|Where are you?|Yes, I am.|I like travel.|A2|'That sounds fun' dùng để thể hiện sự hào hứng khi nghe kế hoạch của người khác.
+Have you finished the report?|Not yet.|Not yet.|Yes, I do.|No, I am not.|I finished.|A2|'Not yet' (vẫn chưa) là cách trả lời phổ biến cho thì hiện tại hoàn thành.
+I don't understand this grammar.|Can I help you?|Can I help you?|Yes, I do.|I don't know.|It's hard.|A2|'Can I help you?' là câu đề nghị hỗ trợ lịch sự.
+It's raining outside!|Don't forget your umbrella.|Don't forget your umbrella.|I like rain.|It is wet.|Yes, it is.|A2|'Don't forget' (đừng quên) là cấu trúc mệnh lệnh hữu ích.
+How was your weekend?|It was very relaxing.|It was very relaxing.|I like weekend.|Yes, it was.|I stay home.|A2|'Relaxing' (thư giãn) dùng để mô tả chất lượng của một khoảng thời gian.
+You look pale.|I don't feel very well.|I don't feel very well.|I am fine.|I am happy.|Yes, I look.|A2|'I don't feel very well' là cách nói tế nhị khi cơ thể không khỏe.
+Could you speak more slowly?|Sure, no problem.|Sure, no problem.|Yes, I can.|No, I don't.|I speak slow.|A2|'No problem' là cách đáp lại yêu cầu một cách thân thiện.
+I'm looking for the IT department.|It's down the hall.|It's down the hall.|I am here.|It's an office.|I don't know.|A2|'Down the hall' (cuối hành lang) là cách chỉ đường trong tòa nhà.
+What are you interested in?|I'm into Artificial Intelligence.|I'm into Artificial Intelligence.|Yes, I am.|It is AI.|I like it.|B1|'Be into something' là cụm từ đồng nghĩa với 'be interested in' (đam mê/thích).
+The meeting has been postponed.|Oh, that's a pity.|Oh, that's a pity.|Yes, it has.|I am sorry.|It is late.|B1|'That's a pity' (Thật đáng tiếc) dùng để phản hồi tin tức không như ý.
+I'm not sure if I can make it.|That's alright.|That's alright.|Yes, you can.|I am sure.|It is fine.|B1|'Make it' trong ngữ cảnh này nghĩa là đến kịp một cuộc hẹn/sự kiện.
+Could you give me a hand?|Sure, what do you need?|Sure, what do you need?|Yes, I can.|No, I won't.|I can hand.|B1|'Give me a hand' là thành ngữ nghĩa là 'giúp tôi một tay'.
+I've made a terrible mistake.|Don't worry, it happens.|Don't worry, it happens.|I am sorry.|It is okay.|Yes, you did.|B1|'It happens' (chuyện đó thường xảy ra mà/ai cũng có lúc sai) để an ủi ai đó.
+What do you suggest we do?|How about watching a film?|How about watching a film?|I suggest.|We do it.|Let's go.|B1|'How about + V-ing' là cấu trúc gợi ý rất phổ biến.
+I'm so stressed out lately.|You should take a break.|You should take a break.|I am happy.|Don't stress.|It is hard.|B1|'Take a break' (nghỉ ngơi) là lời khuyên tốt cho người đang bị stress.
+I really appreciate your help.|It was my pleasure.|It was my pleasure.|Yes, you're welcome.|I help you.|No problem.|B1|'It was my pleasure' là cách đáp lại lời cảm ơn trang trọng và lịch sự.
+Do you happen to know where he is?|I'm afraid I don't.|I'm afraid I don't.|Yes, I do.|He is here.|I don't know.|B1|'I'm afraid' là cách nói lịch sự để từ chối hoặc trả lời phủ định.
+I'm having trouble with this software.|Did you try restarting it?|Did you try restarting it?|Yes, I am.|It is hard.|I don't know.|B1|'Restarting' (khởi động lại) là giải pháp cơ bản cho mọi lỗi phần mềm.
+Could you please clarify that point?|Certainly, I'll explain it again.|Certainly, I'll explain it again.|Yes, I will.|I explain.|No, I can't.|B1|'Clarify' (làm rõ) dùng khi muốn ai đó giải thích lại một ý chưa hiểu.
+I'm not convinced by his argument.|I see your point, but...|I see your point, but...|Yes, he is.|I agree.|You are wrong.|B1|'I see your point' (Tôi hiểu ý bạn) là cách bắt đầu phản biện lịch sự.
+It's been a long day.|You must be exhausted.|You must be exhausted.|I am tired.|Yes, it is.|I am happy.|B2|'Exhausted' (kiệt sức) là từ mạnh hơn 'tired', dùng khi một ngày quá dài.
+The situation is getting out of hand.|We need to act fast.|We need to act fast.|It is bad.|I agree.|Stay calm.|B2|'Out of hand' (mất kiểm soát) yêu cầu hành động ngay lập tức (act fast).
+I'm really looking forward to the conference.|I am too, it sounds great!|I am too, it sounds great!|Yes, you are.|I look too.|It's good.|B2|'Looking forward to' diễn tả sự háo hức cho một sự kiện trong tương lai.
+Could you run this by me again?|Sure, I'll go over it once more.|Sure, I'll go over it once more.|Yes, I can.|Run again.|No, I won't.|B2|'Run something by someone' (nhắc lại/thông báo lại) là một cụm từ rất thông dụng trong IT.
+There's no point in arguing.|I agree, let's move on.|I agree, let's move on.|Yes, we do.|You are right.|Stop it.|B2|'There's no point in + V-ing' (không có ích gì khi làm gì).
+The deadline is creeping up on us.|We need to pick up the pace.|We need to pick up the pace.|It is close.|Yes, it is.|Hurry up.|B2|'Pick up the pace' (tăng tốc độ) để đối phó với deadline (thời hạn).
+I'm inclined to agree with your proposal.|That's good to hear.|That's good to hear.|I agree.|Yes, it is.|You are right.|B2|'Inclined to agree' (nghiêng về việc đồng ý) là cách nói mang tính chuyên nghiệp.
+Everything is up in the air.|We'll just have to wait and see.|We'll just have to wait and see.|It is floating.|Wait for it.|Yes, it is.|B2|'Up in the air' (mọi thứ chưa chắc chắn) thường dẫn đến việc phải chờ đợi.
+We need to iron out the details.|I'll start drafting the plan.|I'll start drafting the plan.|It is flat.|Okay, iron.|Yes, details.|B2|'Iron out' (giải quyết các chi tiết nhỏ) là cụm từ thường dùng trong quản lý dự án.
+I'm at a loss for words.|Take your time to think.|Take your time to think.|Speak up.|What is it?|Don't say.|B2|'At a loss for words' (không nói nên lời) do ngạc nhiên hoặc quá xúc động.
+I can't seem to get the hang of this.|Don't worry, it takes practice.|Don't worry, it takes practice.|Try again.|You can.|It is hard.|B2|'Get the hang of something' (bắt đầu quen/hiểu cách làm việc gì).
+Let's call it a day.|Agreed, I'm exhausted too.|Agreed, I'm exhausted too.|Yes, call.|Day is done.|Good night.|B2|'Call it a day' (dừng công việc tại đây/hết ngày làm việc).
+He keeps missing the point.|Maybe we should explain it better.|Maybe we should explain it better.|He is dumb.|Yes, he does.|Explain it.|B2|'Missing the point' (không hiểu ý chính) là rào cản trong giao tiếp.
+It's all greek to me.|Let me explain it in simple terms.|Let me explain it in simple terms.|Learn Greek.|No, it's not.|Yes, I know.|B2|'It's all Greek to me' (Tôi chẳng hiểu gì cả - dùng cho ngôn ngữ/tài liệu khó).
+Let's touch base next week.|Sounds good, I'll email you.|Sounds good, I'll email you.|Touch what?|Next week.|Email me.|B2|'Touch base' (liên lạc/trao đổi ngắn) là cụm từ rất phổ biến trong môi trường làm việc.
+The project is on the right track.|Great, let's keep going.|Great, let's keep going.|Yes, track.|On track.|Good.|B2|'On the right track' (đi đúng hướng).
+I need to pull myself together.|Take a deep breath, you can do it.|Take a deep breath, you can do it.|Pull it.|Yes, you can.|Do it.|B2|'Pull oneself together' (trấn tĩnh lại).
+We need to bridge the gap.|What's the best approach?|What's the best approach?|Bridge it.|Gap is big.|Yes, need.|B2|'Bridge the gap' (thu hẹp khoảng cách/sự khác biệt).
+I'm snowed under with work.|Let me know if I can help.|Let me know if I can help.|Is it cold?|Snowing?|Work hard.|B2|'Snowed under' (ngập đầu trong công việc).
+Everything went south.|That's really unfortunate.|That's really unfortunate.|North?|Went wrong.|Yes, it did.|B2|'Go south' (mọi thứ trở nên tồi tệ/thất bại).
+I have a gut feeling about this.|Trust your intuition.|Trust your intuition.|Gut?|Feeling?|Yes, trust.|B2|'Gut feeling' (linh cảm).
+He's not pulling his weight.|We should talk to him about it.|We should talk to him about it.|Too heavy?|No pull.|Yes, talk.|B2|'Pull one's weight' (làm tròn trách nhiệm).
+I'm on the fence about this.|Take some time to consider it.|Take some time to consider it.|Fence?|Not decided.|Yes, consider.|B2|'On the fence' (chưa quyết định được/đang phân vân).
+The ball is in your court.|I'll think about it and let you know.|I'll think about it and let you know.|My court?|Ball?|Yes, know.|B2|'Ball is in your court' (đến lượt bạn đưa ra quyết định).
+That rings a bell.|I thought you'd recognize it.|I thought you'd recognize it.|Bell rings?|No, not.|Yes, sound.|B2|'Ring a bell' (nghe quen quen).
+Let's start from scratch.|Okay, let's draft a new plan.|Okay, let's draft a new plan.|Scratch?|New plan.|Yes, start.|B2|'From scratch' (từ con số 0).
+He's a tough cookie.|He's very resilient.|He's very resilient.|Cookie?|Hard?|Yes, he is.|B2|'Tough cookie' (người mạnh mẽ, chịu khó).
+Let's cut to the chase.|What's the most important point?|What's the most important point?|Chase?|Cut?|Yes, important.|B2|'Cut to the chase' (đi thẳng vào vấn đề).
+That's a bit of a stretch.|You're right, let's be realistic.|You're right, let's be realistic.|Stretch?|Realistic.|Yes, bit.|B2|'A bit of a stretch' (hơi quá mức/không thực tế).
+He's burning the candle at both ends.|He needs to get some sleep.|He needs to get some sleep.|Candle?|Sleep?|Yes, burn.|B2|'Burning the candle at both ends' (làm việc quá sức).
+It's a win-win situation.|Everyone benefits from this.|Everyone benefits from this.|Win?|Yes, benefits.|Good.|B2|'Win-win' (cả hai bên cùng có lợi).
+I'm just playing devil's advocate.|It's good to consider all sides.|It's good to consider all sides.|Devil?|Sides?|Yes, all.|B2|'Devil's advocate' (người phản biện để tìm ra sự thật).
+He missed the boat on this.|He was too slow to act.|He was too slow to act.|Boat?|Too late.|Yes, act.|B2|'Miss the boat' (bỏ lỡ cơ hội).
+Let's go back to the drawing board.|Okay, let's redesign the concept.|Okay, let's redesign the concept.|Drawing?|Redesign?|Yes, back.|B2|'Back to the drawing board' (làm lại từ đầu).
+The cat's out of the bag.|Everyone knows the secret now.|Everyone knows the secret now.|Cat?|Secret?|Yes, know.|B2|'Cat's out of the bag' (bị lộ bí mật).
+Hit the nail on the head.|Exactly, that's the core issue.|Exactly, that's the core issue.|Nail?|Core?|Yes, head.|B2|'Hit the nail on the head' (nói đúng trọng tâm).
+Don't beat around the bush.|Give me a straight answer.|Give me a straight answer.|Bush?|Straight?|Yes, bush.|B2|'Beat around the bush' (nói vòng vo).
+I'm feeling under the weather.|You should go home and rest.|You should go home and rest.|Weather?|Rest?|Yes, feel.|B2|'Under the weather' (cảm thấy không khỏe).
+He's a piece of cake.|It's very easy to handle.|It's very easy to handle.|Cake?|Easy?|Yes, handle.|B2|'Piece of cake' (việc rất dễ dàng).
+Break a leg!|Good luck with your presentation!|Good luck with your presentation!|Leg?|Presentation?|Yes, luck.|B2|'Break a leg' (chúc may mắn - dùng trong nghệ thuật/biểu diễn).
+Cost an arm and a leg.|It's too expensive.|It's too expensive.|Arm?|Expensive?|Yes, cost.|B2|'Cost an arm and a leg' (rất đắt đỏ).
+Don't put all your eggs in one basket.|Diversify your investment.|Diversify your investment.|Eggs?|Diversify?|Yes, basket.|B2|'Put all eggs in one basket' (bỏ hết trứng vào một giỏ - mạo hiểm).
+Spill the beans.|Tell me the secret!|Tell me the secret!|Beans?|Secret?|Yes, spill.|B2|'Spill the beans' (tiết lộ bí mật).
+Under the weather.|I'm feeling a bit sick.|I'm feeling a bit sick.|Sick?|Weather?|Yes, feel.|B2|'Under the weather' (từ đồng nghĩa: thấy mệt trong người).
+The last straw.|This is the final annoyance.|This is the final annoyance.|Straw?|Final?|Yes, last.|B2|'The last straw' (giọt nước tràn ly).
+Better late than never.|It's good you finally arrived.|It's good you finally arrived.|Late?|Finally?|Yes, better.|B2|'Better late than never' (muộn còn hơn không).
+Break the ice.|Let's start the conversation.|Let's start the conversation.|Ice?|Start?|Yes, break.|B2|'Break the ice' (phá vỡ sự ngại ngùng ban đầu).
+Call it a day.|Stop working and rest.|Stop working and rest.|Stop?|Rest?|Yes, call.|B2|'Call it a day' (kết thúc công việc).
+Piece of cake.|It's extremely simple.|It's extremely simple.|Easy?|Cake?|Yes, piece.|B2|'Piece of cake' (việc cực kỳ đơn giản).
+Elephant in the room.|We should address the obvious problem.|We should address the obvious problem.|Elephant?|Problem?|Yes, room.|B2|'Elephant in the room' (vấn đề lớn mà ai cũng biết nhưng né tránh).
+Burn the midnight oil.|You're working very late.|You're working very late.|Oil?|Late?|Yes, burn.|B2|'Burn the midnight oil' (làm việc khuya).
+Hang in there!|Don't give up yet!|Don't give up yet!|Up?|Give?|Yes, hang.|B2|'Hang in there' (kiên trì, đừng bỏ cuộc).
+Get out of hand.|It's becoming uncontrollable.|It's becoming uncontrollable.|Out?|Hard?|Yes, hand.|B2|'Get out of hand' (mất kiểm soát).
+Easy does it.|Slow down, be careful.|Slow down, be careful.|Slow?|Easy?|Yes, does.|B2|'Easy does it' (từ từ thôi/cẩn thận nhé).
+Hit the sack.|I'm going to sleep now.|I'm going to sleep now.|Sack?|Sleep?|Yes, hit.|B2|'Hit the sack' (đi ngủ).
+A blessing in disguise.|It's a good thing, though it didn't look like it.|It's a good thing, though it didn't look like it.|Good?|Disguise?|Yes, luck.|B2|'Blessing in disguise' (cái rủi lại hóa cái may).
+Barking up the wrong tree.|You're looking for the answer in the wrong place.|You're looking for the answer in the wrong place.|Tree?|Wrong?|Yes, bark.|B2|'Bark up the wrong tree' (đổ lỗi sai chỗ/hiểu lầm).
+Through thick and thin.|They have been together during good and bad times.|They have been together during good and bad times.|Thick?|Thin?|Yes, times.|B2|'Through thick and thin' (vượt qua mọi khó khăn).
+The best of both worlds.|You get all the advantages.|You get all the advantages.|Best?|World?|Yes, both.|B2|'Best of both worlds' (cả hai lựa chọn đều tốt).
+Time flies.|It passes so quickly.|It passes so quickly.|Time?|Quick?|Yes, flies.|B2|'Time flies' (thời gian trôi nhanh).
+Get a taste of your own medicine.|You are being treated the same way you treat others.|You are being treated the same way you treat others.|Taste?|Medicine?|Yes, own.|B2|'Taste of your own medicine' (gậy ông đập lưng ông).
+Give someone the benefit of the doubt.|Trust what they say for now.|Trust what they say for now.|Doubt?|Trust?|Yes, give.|B2|'Benefit of the doubt' (cho ai đó cơ hội tin tưởng).
+AI stands for Artificial _____.|Intelligence|Intelligence|Information|Integration|Internet|B1|AI là viết tắt của Artificial Intelligence (Trí tuệ nhân tạo).
+The 'U' in IUH stands for _____.|University|University|Unit|Union|United|A1|IUH là Industrial University of Ho Chi Minh City.
+Which language is used for C++?|C++|C++|Java|Python|HTML|A1|Câu hỏi kiểm tra kiến thức cơ bản về ngôn ngữ lập trình.
+A _____ is a person who writes code.|programmer|programmer|doctor|teacher|driver|A1|Programmer là lập trình viên, người viết mã nguồn.
+RAM stands for Random _____ Memory.|Access|Access|Action|Active|Account|B1|RAM là bộ nhớ truy xuất ngẫu nhiên (Random Access Memory).
+Your project is named _____ AI.|SilverShield|SilverShield|SentinelVoice|GoldShield|SafetyAI|A2|Tên dự án của bạn đã được đổi thành SilverShield AI.
+Deepfake is a type of _____.|fraud|fraud|game|sport|food|B1|Deepfake thường được sử dụng trong các hành vi lừa đảo (fraud).
+Teamwork is important in _____ assignments.|group|group|solo|single|alone|A1|Làm việc nhóm (Teamwork) rất quan trọng trong các bài tập nhóm (group assignments).
